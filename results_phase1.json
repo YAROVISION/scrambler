@@ -1,4020 +1,3181 @@
 [
   {
-    "posId": 10001,
-    "url": "https://lpd.court.gov.ua/legal-position/10001",
+    "posId": 13501,
+    "url": "https://lpd.court.gov.ua/legal-position/13501",
     "status": "ok",
     "docIds": [
-      43296
+      51839
     ]
   },
   {
-    "posId": 10002,
-    "url": "https://lpd.court.gov.ua/legal-position/10002",
+    "posId": 13502,
+    "url": "https://lpd.court.gov.ua/legal-position/13502",
     "status": "ok",
     "docIds": [
-      43292
+      51840
     ]
   },
   {
-    "posId": 10003,
-    "url": "https://lpd.court.gov.ua/legal-position/10003",
+    "posId": 13503,
+    "url": "https://lpd.court.gov.ua/legal-position/13503",
     "status": "ok",
     "docIds": [
-      39822
+      51840
     ]
   },
   {
-    "posId": 10004,
-    "url": "https://lpd.court.gov.ua/legal-position/10004",
+    "posId": 13504,
+    "url": "https://lpd.court.gov.ua/legal-position/13504",
     "status": "ok",
     "docIds": [
-      39297
+      51851
     ]
   },
   {
-    "posId": 10005,
-    "url": "https://lpd.court.gov.ua/legal-position/10005",
+    "posId": 13505,
+    "url": "https://lpd.court.gov.ua/legal-position/13505",
     "status": "ok",
     "docIds": [
-      40343,
-      52021
+      51855
     ]
   },
   {
-    "posId": 10006,
-    "url": "https://lpd.court.gov.ua/legal-position/10006",
+    "posId": 13506,
+    "url": "https://lpd.court.gov.ua/legal-position/13506",
     "status": "ok",
     "docIds": [
-      39587
+      51858
     ]
   },
   {
-    "posId": 10007,
-    "url": "https://lpd.court.gov.ua/legal-position/10007",
-    "status": "ok",
-    "docIds": [
-      40184
-    ]
-  },
-  {
-    "posId": 10008,
-    "url": "https://lpd.court.gov.ua/legal-position/10008",
-    "status": "ok",
-    "docIds": [
-      4786,
-      38707,
-      43298,
-      50876
-    ]
-  },
-  {
-    "posId": 10009,
-    "url": "https://lpd.court.gov.ua/legal-position/10009",
-    "status": "ok",
-    "docIds": [
-      40508
-    ]
-  },
-  {
-    "posId": 10010,
-    "url": "https://lpd.court.gov.ua/legal-position/10010",
-    "status": "ok",
-    "docIds": [
-      41510
-    ]
-  },
-  {
-    "posId": 10011,
-    "url": "https://lpd.court.gov.ua/legal-position/10011",
+    "posId": 13507,
+    "url": "https://lpd.court.gov.ua/legal-position/13507",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10012,
-    "url": "https://lpd.court.gov.ua/legal-position/10012",
+    "posId": 13508,
+    "url": "https://lpd.court.gov.ua/legal-position/13508",
     "status": "ok",
     "docIds": [
-      43299,
-      48992,
-      48993,
-      52023
+      51861
     ]
   },
   {
-    "posId": 10013,
-    "url": "https://lpd.court.gov.ua/legal-position/10013",
+    "posId": 13509,
+    "url": "https://lpd.court.gov.ua/legal-position/13509",
     "status": "ok",
     "docIds": [
-      40249
+      51865
     ]
   },
   {
-    "posId": 10014,
-    "url": "https://lpd.court.gov.ua/legal-position/10014",
+    "posId": 13510,
+    "url": "https://lpd.court.gov.ua/legal-position/13510",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13511,
+    "url": "https://lpd.court.gov.ua/legal-position/13511",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13512,
+    "url": "https://lpd.court.gov.ua/legal-position/13512",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13513,
+    "url": "https://lpd.court.gov.ua/legal-position/13513",
     "status": "ok",
     "docIds": [
-      40431
+      51868
     ]
   },
   {
-    "posId": 10015,
-    "url": "https://lpd.court.gov.ua/legal-position/10015",
+    "posId": 13514,
+    "url": "https://lpd.court.gov.ua/legal-position/13514",
     "status": "ok",
     "docIds": [
-      39026
+      51874
     ]
   },
   {
-    "posId": 10016,
-    "url": "https://lpd.court.gov.ua/legal-position/10016",
+    "posId": 13515,
+    "url": "https://lpd.court.gov.ua/legal-position/13515",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13516,
+    "url": "https://lpd.court.gov.ua/legal-position/13516",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13517,
+    "url": "https://lpd.court.gov.ua/legal-position/13517",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13518,
+    "url": "https://lpd.court.gov.ua/legal-position/13518",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13519,
+    "url": "https://lpd.court.gov.ua/legal-position/13519",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13520,
+    "url": "https://lpd.court.gov.ua/legal-position/13520",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13521,
+    "url": "https://lpd.court.gov.ua/legal-position/13521",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13522,
+    "url": "https://lpd.court.gov.ua/legal-position/13522",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13523,
+    "url": "https://lpd.court.gov.ua/legal-position/13523",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13524,
+    "url": "https://lpd.court.gov.ua/legal-position/13524",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13525,
+    "url": "https://lpd.court.gov.ua/legal-position/13525",
     "status": "ok",
     "docIds": [
-      39386
+      25109
     ]
   },
   {
-    "posId": 10017,
-    "url": "https://lpd.court.gov.ua/legal-position/10017",
+    "posId": 13526,
+    "url": "https://lpd.court.gov.ua/legal-position/13526",
     "status": "ok",
     "docIds": [
-      39584
+      51914
     ]
   },
   {
-    "posId": 10018,
-    "url": "https://lpd.court.gov.ua/legal-position/10018",
+    "posId": 13527,
+    "url": "https://lpd.court.gov.ua/legal-position/13527",
+    "status": "ok",
+    "docIds": [
+      51915
+    ]
+  },
+  {
+    "posId": 13528,
+    "url": "https://lpd.court.gov.ua/legal-position/13528",
+    "status": "ok",
+    "docIds": [
+      51916
+    ]
+  },
+  {
+    "posId": 13529,
+    "url": "https://lpd.court.gov.ua/legal-position/13529",
+    "status": "ok",
+    "docIds": [
+      49364
+    ]
+  },
+  {
+    "posId": 13530,
+    "url": "https://lpd.court.gov.ua/legal-position/13530",
+    "status": "ok",
+    "docIds": [
+      23232
+    ]
+  },
+  {
+    "posId": 13531,
+    "url": "https://lpd.court.gov.ua/legal-position/13531",
+    "status": "ok",
+    "docIds": [
+      51359
+    ]
+  },
+  {
+    "posId": 13532,
+    "url": "https://lpd.court.gov.ua/legal-position/13532",
+    "status": "ok",
+    "docIds": [
+      51918
+    ]
+  },
+  {
+    "posId": 13533,
+    "url": "https://lpd.court.gov.ua/legal-position/13533",
+    "status": "ok",
+    "docIds": [
+      1118
+    ]
+  },
+  {
+    "posId": 13534,
+    "url": "https://lpd.court.gov.ua/legal-position/13534",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13535,
+    "url": "https://lpd.court.gov.ua/legal-position/13535",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13536,
+    "url": "https://lpd.court.gov.ua/legal-position/13536",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13537,
+    "url": "https://lpd.court.gov.ua/legal-position/13537",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13538,
+    "url": "https://lpd.court.gov.ua/legal-position/13538",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13539,
+    "url": "https://lpd.court.gov.ua/legal-position/13539",
+    "status": "ok",
+    "docIds": [
+      51938
+    ]
+  },
+  {
+    "posId": 13540,
+    "url": "https://lpd.court.gov.ua/legal-position/13540",
+    "status": "ok",
+    "docIds": [
+      51938
+    ]
+  },
+  {
+    "posId": 13541,
+    "url": "https://lpd.court.gov.ua/legal-position/13541",
+    "status": "ok",
+    "docIds": [
+      51939
+    ]
+  },
+  {
+    "posId": 13542,
+    "url": "https://lpd.court.gov.ua/legal-position/13542",
+    "status": "ok",
+    "docIds": [
+      51939
+    ]
+  },
+  {
+    "posId": 13543,
+    "url": "https://lpd.court.gov.ua/legal-position/13543",
+    "status": "ok",
+    "docIds": [
+      51939
+    ]
+  },
+  {
+    "posId": 13544,
+    "url": "https://lpd.court.gov.ua/legal-position/13544",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13545,
+    "url": "https://lpd.court.gov.ua/legal-position/13545",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13546,
+    "url": "https://lpd.court.gov.ua/legal-position/13546",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13547,
+    "url": "https://lpd.court.gov.ua/legal-position/13547",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13548,
+    "url": "https://lpd.court.gov.ua/legal-position/13548",
+    "status": "ok",
+    "docIds": [
+      51943
+    ]
+  },
+  {
+    "posId": 13549,
+    "url": "https://lpd.court.gov.ua/legal-position/13549",
+    "status": "ok",
+    "docIds": [
+      51945
+    ]
+  },
+  {
+    "posId": 13550,
+    "url": "https://lpd.court.gov.ua/legal-position/13550",
+    "status": "ok",
+    "docIds": [
+      51947
+    ]
+  },
+  {
+    "posId": 13551,
+    "url": "https://lpd.court.gov.ua/legal-position/13551",
+    "status": "ok",
+    "docIds": [
+      51946
+    ]
+  },
+  {
+    "posId": 13552,
+    "url": "https://lpd.court.gov.ua/legal-position/13552",
+    "status": "ok",
+    "docIds": [
+      51951
+    ]
+  },
+  {
+    "posId": 13553,
+    "url": "https://lpd.court.gov.ua/legal-position/13553",
+    "status": "ok",
+    "docIds": [
+      51952
+    ]
+  },
+  {
+    "posId": 13554,
+    "url": "https://lpd.court.gov.ua/legal-position/13554",
+    "status": "ok",
+    "docIds": [
+      51953
+    ]
+  },
+  {
+    "posId": 13555,
+    "url": "https://lpd.court.gov.ua/legal-position/13555",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13556,
+    "url": "https://lpd.court.gov.ua/legal-position/13556",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13557,
+    "url": "https://lpd.court.gov.ua/legal-position/13557",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13558,
+    "url": "https://lpd.court.gov.ua/legal-position/13558",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13559,
+    "url": "https://lpd.court.gov.ua/legal-position/13559",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13560,
+    "url": "https://lpd.court.gov.ua/legal-position/13560",
+    "status": "ok",
+    "docIds": [
+      51965
+    ]
+  },
+  {
+    "posId": 13561,
+    "url": "https://lpd.court.gov.ua/legal-position/13561",
+    "status": "ok",
+    "docIds": [
+      51610
+    ]
+  },
+  {
+    "posId": 13562,
+    "url": "https://lpd.court.gov.ua/legal-position/13562",
+    "status": "ok",
+    "docIds": [
+      51622
+    ]
+  },
+  {
+    "posId": 13563,
+    "url": "https://lpd.court.gov.ua/legal-position/13563",
+    "status": "ok",
+    "docIds": [
+      51967
+    ]
+  },
+  {
+    "posId": 13564,
+    "url": "https://lpd.court.gov.ua/legal-position/13564",
+    "status": "ok",
+    "docIds": [
+      51968
+    ]
+  },
+  {
+    "posId": 13565,
+    "url": "https://lpd.court.gov.ua/legal-position/13565",
+    "status": "ok",
+    "docIds": [
+      51969
+    ]
+  },
+  {
+    "posId": 13566,
+    "url": "https://lpd.court.gov.ua/legal-position/13566",
+    "status": "ok",
+    "docIds": [
+      49533
+    ]
+  },
+  {
+    "posId": 13567,
+    "url": "https://lpd.court.gov.ua/legal-position/13567",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13568,
+    "url": "https://lpd.court.gov.ua/legal-position/13568",
+    "status": "ok",
+    "docIds": [
+      49534,
+      49536
+    ]
+  },
+  {
+    "posId": 13569,
+    "url": "https://lpd.court.gov.ua/legal-position/13569",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13570,
+    "url": "https://lpd.court.gov.ua/legal-position/13570",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13571,
+    "url": "https://lpd.court.gov.ua/legal-position/13571",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13572,
+    "url": "https://lpd.court.gov.ua/legal-position/13572",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13573,
+    "url": "https://lpd.court.gov.ua/legal-position/13573",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13574,
+    "url": "https://lpd.court.gov.ua/legal-position/13574",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13575,
+    "url": "https://lpd.court.gov.ua/legal-position/13575",
+    "status": "ok",
+    "docIds": [
+      51994
+    ]
+  },
+  {
+    "posId": 13576,
+    "url": "https://lpd.court.gov.ua/legal-position/13576",
+    "status": "ok",
+    "docIds": [
+      51996
+    ]
+  },
+  {
+    "posId": 13577,
+    "url": "https://lpd.court.gov.ua/legal-position/13577",
+    "status": "ok",
+    "docIds": [
+      51997
+    ]
+  },
+  {
+    "posId": 13578,
+    "url": "https://lpd.court.gov.ua/legal-position/13578",
+    "status": "ok",
+    "docIds": [
+      51998
+    ]
+  },
+  {
+    "posId": 13579,
+    "url": "https://lpd.court.gov.ua/legal-position/13579",
+    "status": "ok",
+    "docIds": [
+      51999,
+      52231
+    ]
+  },
+  {
+    "posId": 13580,
+    "url": "https://lpd.court.gov.ua/legal-position/13580",
+    "status": "ok",
+    "docIds": [
+      52012
+    ]
+  },
+  {
+    "posId": 13581,
+    "url": "https://lpd.court.gov.ua/legal-position/13581",
+    "status": "ok",
+    "docIds": [
+      52013
+    ]
+  },
+  {
+    "posId": 13582,
+    "url": "https://lpd.court.gov.ua/legal-position/13582",
     "status": "ok",
     "docIds": [
       39595
     ]
   },
   {
-    "posId": 10019,
-    "url": "https://lpd.court.gov.ua/legal-position/10019",
+    "posId": 13583,
+    "url": "https://lpd.court.gov.ua/legal-position/13583",
     "status": "ok",
     "docIds": [
-      40071
+      37122
     ]
   },
   {
-    "posId": 10020,
-    "url": "https://lpd.court.gov.ua/legal-position/10020",
+    "posId": 13584,
+    "url": "https://lpd.court.gov.ua/legal-position/13584",
     "status": "ok",
     "docIds": [
-      4221,
-      4222,
-      4223,
-      40703
+      52014,
+      52015
     ]
   },
   {
-    "posId": 10021,
-    "url": "https://lpd.court.gov.ua/legal-position/10021",
+    "posId": 13585,
+    "url": "https://lpd.court.gov.ua/legal-position/13585",
     "status": "ok",
     "docIds": [
-      39492
+      52016
     ]
   },
   {
-    "posId": 10022,
-    "url": "https://lpd.court.gov.ua/legal-position/10022",
+    "posId": 13586,
+    "url": "https://lpd.court.gov.ua/legal-position/13586",
     "status": "ok",
     "docIds": [
-      39769
+      6164
     ]
   },
   {
-    "posId": 10023,
-    "url": "https://lpd.court.gov.ua/legal-position/10023",
+    "posId": 13587,
+    "url": "https://lpd.court.gov.ua/legal-position/13587",
     "status": "ok",
     "docIds": [
-      40185
+      52017
     ]
   },
   {
-    "posId": 10024,
-    "url": "https://lpd.court.gov.ua/legal-position/10024",
+    "posId": 13588,
+    "url": "https://lpd.court.gov.ua/legal-position/13588",
     "status": "ok",
     "docIds": [
-      39620
+      44824
     ]
   },
   {
-    "posId": 10025,
-    "url": "https://lpd.court.gov.ua/legal-position/10025",
+    "posId": 13589,
+    "url": "https://lpd.court.gov.ua/legal-position/13589",
     "status": "ok",
     "docIds": [
-      40655
+      52037
     ]
   },
   {
-    "posId": 10026,
-    "url": "https://lpd.court.gov.ua/legal-position/10026",
+    "posId": 13590,
+    "url": "https://lpd.court.gov.ua/legal-position/13590",
     "status": "ok",
     "docIds": [
-      38992
+      52038
     ]
   },
   {
-    "posId": 10027,
-    "url": "https://lpd.court.gov.ua/legal-position/10027",
+    "posId": 13591,
+    "url": "https://lpd.court.gov.ua/legal-position/13591",
     "status": "ok",
     "docIds": [
-      41065
+      52039
     ]
   },
   {
-    "posId": 10028,
-    "url": "https://lpd.court.gov.ua/legal-position/10028",
+    "posId": 13592,
+    "url": "https://lpd.court.gov.ua/legal-position/13592",
     "status": "ok",
     "docIds": [
-      40006
+      52040
     ]
   },
   {
-    "posId": 10029,
-    "url": "https://lpd.court.gov.ua/legal-position/10029",
-    "status": "ok",
-    "docIds": [
-      40012,
-      44610
-    ]
-  },
-  {
-    "posId": 10030,
-    "url": "https://lpd.court.gov.ua/legal-position/10030",
-    "status": "ok",
-    "docIds": [
-      39889
-    ]
-  },
-  {
-    "posId": 10031,
-    "url": "https://lpd.court.gov.ua/legal-position/10031",
-    "status": "ok",
-    "docIds": [
-      40438
-    ]
-  },
-  {
-    "posId": 10032,
-    "url": "https://lpd.court.gov.ua/legal-position/10032",
-    "status": "ok",
-    "docIds": [
-      43300
-    ]
-  },
-  {
-    "posId": 10033,
-    "url": "https://lpd.court.gov.ua/legal-position/10033",
-    "status": "ok",
-    "docIds": [
-      41199
-    ]
-  },
-  {
-    "posId": 10034,
-    "url": "https://lpd.court.gov.ua/legal-position/10034",
-    "status": "ok",
-    "docIds": [
-      43301
-    ]
-  },
-  {
-    "posId": 10035,
-    "url": "https://lpd.court.gov.ua/legal-position/10035",
-    "status": "ok",
-    "docIds": [
-      43302
-    ]
-  },
-  {
-    "posId": 10036,
-    "url": "https://lpd.court.gov.ua/legal-position/10036",
-    "status": "ok",
-    "docIds": [
-      40056
-    ]
-  },
-  {
-    "posId": 10037,
-    "url": "https://lpd.court.gov.ua/legal-position/10037",
-    "status": "ok",
-    "docIds": [
-      43303
-    ]
-  },
-  {
-    "posId": 10038,
-    "url": "https://lpd.court.gov.ua/legal-position/10038",
-    "status": "ok",
-    "docIds": [
-      43304
-    ]
-  },
-  {
-    "posId": 10039,
-    "url": "https://lpd.court.gov.ua/legal-position/10039",
-    "status": "ok",
-    "docIds": [
-      43305
-    ]
-  },
-  {
-    "posId": 10040,
-    "url": "https://lpd.court.gov.ua/legal-position/10040",
-    "status": "ok",
-    "docIds": [
-      43306
-    ]
-  },
-  {
-    "posId": 10041,
-    "url": "https://lpd.court.gov.ua/legal-position/10041",
-    "status": "ok",
-    "docIds": [
-      43307
-    ]
-  },
-  {
-    "posId": 10042,
-    "url": "https://lpd.court.gov.ua/legal-position/10042",
-    "status": "ok",
-    "docIds": [
-      40056
-    ]
-  },
-  {
-    "posId": 10043,
-    "url": "https://lpd.court.gov.ua/legal-position/10043",
-    "status": "ok",
-    "docIds": [
-      43308
-    ]
-  },
-  {
-    "posId": 10044,
-    "url": "https://lpd.court.gov.ua/legal-position/10044",
-    "status": "ok",
-    "docIds": [
-      43309
-    ]
-  },
-  {
-    "posId": 10045,
-    "url": "https://lpd.court.gov.ua/legal-position/10045",
-    "status": "ok",
-    "docIds": [
-      43310,
-      43311,
-      43312
-    ]
-  },
-  {
-    "posId": 10046,
-    "url": "https://lpd.court.gov.ua/legal-position/10046",
-    "status": "ok",
-    "docIds": [
-      43313
-    ]
-  },
-  {
-    "posId": 10047,
-    "url": "https://lpd.court.gov.ua/legal-position/10047",
-    "status": "ok",
-    "docIds": [
-      43314
-    ]
-  },
-  {
-    "posId": 10048,
-    "url": "https://lpd.court.gov.ua/legal-position/10048",
-    "status": "ok",
-    "docIds": [
-      43315
-    ]
-  },
-  {
-    "posId": 10049,
-    "url": "https://lpd.court.gov.ua/legal-position/10049",
-    "status": "ok",
-    "docIds": [
-      43316,
-      43317
-    ]
-  },
-  {
-    "posId": 10050,
-    "url": "https://lpd.court.gov.ua/legal-position/10050",
-    "status": "ok",
-    "docIds": [
-      41117
-    ]
-  },
-  {
-    "posId": 10051,
-    "url": "https://lpd.court.gov.ua/legal-position/10051",
-    "status": "ok",
-    "docIds": [
-      39747
-    ]
-  },
-  {
-    "posId": 10052,
-    "url": "https://lpd.court.gov.ua/legal-position/10052",
-    "status": "ok",
-    "docIds": [
-      39992
-    ]
-  },
-  {
-    "posId": 10053,
-    "url": "https://lpd.court.gov.ua/legal-position/10053",
-    "status": "ok",
-    "docIds": [
-      40763
-    ]
-  },
-  {
-    "posId": 10054,
-    "url": "https://lpd.court.gov.ua/legal-position/10054",
-    "status": "ok",
-    "docIds": [
-      40646,
-      45417
-    ]
-  },
-  {
-    "posId": 10055,
-    "url": "https://lpd.court.gov.ua/legal-position/10055",
-    "status": "ok",
-    "docIds": [
-      40097,
-      49806
-    ]
-  },
-  {
-    "posId": 10056,
-    "url": "https://lpd.court.gov.ua/legal-position/10056",
-    "status": "ok",
-    "docIds": [
-      39661
-    ]
-  },
-  {
-    "posId": 10057,
-    "url": "https://lpd.court.gov.ua/legal-position/10057",
-    "status": "ok",
-    "docIds": [
-      39903
-    ]
-  },
-  {
-    "posId": 10058,
-    "url": "https://lpd.court.gov.ua/legal-position/10058",
-    "status": "ok",
-    "docIds": [
-      37596
-    ]
-  },
-  {
-    "posId": 10059,
-    "url": "https://lpd.court.gov.ua/legal-position/10059",
-    "status": "ok",
-    "docIds": [
-      43318
-    ]
-  },
-  {
-    "posId": 10060,
-    "url": "https://lpd.court.gov.ua/legal-position/10060",
-    "status": "ok",
-    "docIds": [
-      43318
-    ]
-  },
-  {
-    "posId": 10061,
-    "url": "https://lpd.court.gov.ua/legal-position/10061",
-    "status": "ok",
-    "docIds": [
-      43319
-    ]
-  },
-  {
-    "posId": 10062,
-    "url": "https://lpd.court.gov.ua/legal-position/10062",
-    "status": "ok",
-    "docIds": [
-      43319
-    ]
-  },
-  {
-    "posId": 10063,
-    "url": "https://lpd.court.gov.ua/legal-position/10063",
-    "status": "ok",
-    "docIds": [
-      43320
-    ]
-  },
-  {
-    "posId": 10064,
-    "url": "https://lpd.court.gov.ua/legal-position/10064",
-    "status": "ok",
-    "docIds": [
-      43321
-    ]
-  },
-  {
-    "posId": 10065,
-    "url": "https://lpd.court.gov.ua/legal-position/10065",
-    "status": "ok",
-    "docIds": [
-      43322
-    ]
-  },
-  {
-    "posId": 10066,
-    "url": "https://lpd.court.gov.ua/legal-position/10066",
-    "status": "ok",
-    "docIds": [
-      40065
-    ]
-  },
-  {
-    "posId": 10067,
-    "url": "https://lpd.court.gov.ua/legal-position/10067",
-    "status": "ok",
-    "docIds": [
-      40215,
-      44226
-    ]
-  },
-  {
-    "posId": 10068,
-    "url": "https://lpd.court.gov.ua/legal-position/10068",
-    "status": "ok",
-    "docIds": [
-      41504
-    ]
-  },
-  {
-    "posId": 10069,
-    "url": "https://lpd.court.gov.ua/legal-position/10069",
-    "status": "ok",
-    "docIds": [
-      43323
-    ]
-  },
-  {
-    "posId": 10070,
-    "url": "https://lpd.court.gov.ua/legal-position/10070",
+    "posId": 13593,
+    "url": "https://lpd.court.gov.ua/legal-position/13593",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10071,
-    "url": "https://lpd.court.gov.ua/legal-position/10071",
-    "status": "ok",
-    "docIds": [
-      43325
-    ]
-  },
-  {
-    "posId": 10072,
-    "url": "https://lpd.court.gov.ua/legal-position/10072",
-    "status": "ok",
-    "docIds": [
-      43324
-    ]
-  },
-  {
-    "posId": 10073,
-    "url": "https://lpd.court.gov.ua/legal-position/10073",
-    "status": "ok",
-    "docIds": [
-      43326
-    ]
-  },
-  {
-    "posId": 10074,
-    "url": "https://lpd.court.gov.ua/legal-position/10074",
-    "status": "ok",
-    "docIds": [
-      43327,
-      52191
-    ]
-  },
-  {
-    "posId": 10075,
-    "url": "https://lpd.court.gov.ua/legal-position/10075",
-    "status": "ok",
-    "docIds": [
-      41718
-    ]
-  },
-  {
-    "posId": 10076,
-    "url": "https://lpd.court.gov.ua/legal-position/10076",
-    "status": "ok",
-    "docIds": [
-      43328
-    ]
-  },
-  {
-    "posId": 10077,
-    "url": "https://lpd.court.gov.ua/legal-position/10077",
-    "status": "ok",
-    "docIds": [
-      43328
-    ]
-  },
-  {
-    "posId": 10078,
-    "url": "https://lpd.court.gov.ua/legal-position/10078",
-    "status": "ok",
-    "docIds": [
-      43329
-    ]
-  },
-  {
-    "posId": 10079,
-    "url": "https://lpd.court.gov.ua/legal-position/10079",
-    "status": "ok",
-    "docIds": [
-      43330
-    ]
-  },
-  {
-    "posId": 10080,
-    "url": "https://lpd.court.gov.ua/legal-position/10080",
-    "status": "ok",
-    "docIds": [
-      43331
-    ]
-  },
-  {
-    "posId": 10081,
-    "url": "https://lpd.court.gov.ua/legal-position/10081",
-    "status": "ok",
-    "docIds": [
-      43331
-    ]
-  },
-  {
-    "posId": 10082,
-    "url": "https://lpd.court.gov.ua/legal-position/10082",
-    "status": "ok",
-    "docIds": [
-      43332,
-      50318,
-      50550
-    ]
-  },
-  {
-    "posId": 10083,
-    "url": "https://lpd.court.gov.ua/legal-position/10083",
-    "status": "ok",
-    "docIds": [
-      43328
-    ]
-  },
-  {
-    "posId": 10084,
-    "url": "https://lpd.court.gov.ua/legal-position/10084",
-    "status": "ok",
-    "docIds": [
-      43333
-    ]
-  },
-  {
-    "posId": 10085,
-    "url": "https://lpd.court.gov.ua/legal-position/10085",
-    "status": "ok",
-    "docIds": [
-      42033
-    ]
-  },
-  {
-    "posId": 10086,
-    "url": "https://lpd.court.gov.ua/legal-position/10086",
-    "status": "ok",
-    "docIds": [
-      43334
-    ]
-  },
-  {
-    "posId": 10087,
-    "url": "https://lpd.court.gov.ua/legal-position/10087",
-    "status": "ok",
-    "docIds": [
-      41249
-    ]
-  },
-  {
-    "posId": 10088,
-    "url": "https://lpd.court.gov.ua/legal-position/10088",
-    "status": "ok",
-    "docIds": [
-      41499
-    ]
-  },
-  {
-    "posId": 10089,
-    "url": "https://lpd.court.gov.ua/legal-position/10089",
-    "status": "ok",
-    "docIds": [
-      41809
-    ]
-  },
-  {
-    "posId": 10090,
-    "url": "https://lpd.court.gov.ua/legal-position/10090",
-    "status": "ok",
-    "docIds": [
-      42391
-    ]
-  },
-  {
-    "posId": 10091,
-    "url": "https://lpd.court.gov.ua/legal-position/10091",
-    "status": "ok",
-    "docIds": [
-      42715
-    ]
-  },
-  {
-    "posId": 10092,
-    "url": "https://lpd.court.gov.ua/legal-position/10092",
-    "status": "ok",
-    "docIds": [
-      41497
-    ]
-  },
-  {
-    "posId": 10093,
-    "url": "https://lpd.court.gov.ua/legal-position/10093",
-    "status": "ok",
-    "docIds": [
-      42040,
-      44793,
-      44794,
-      44795,
-      50380
-    ]
-  },
-  {
-    "posId": 10094,
-    "url": "https://lpd.court.gov.ua/legal-position/10094",
-    "status": "ok",
-    "docIds": [
-      42560,
-      44600
-    ]
-  },
-  {
-    "posId": 10095,
-    "url": "https://lpd.court.gov.ua/legal-position/10095",
-    "status": "ok",
-    "docIds": [
-      42839
-    ]
-  },
-  {
-    "posId": 10096,
-    "url": "https://lpd.court.gov.ua/legal-position/10096",
-    "status": "ok",
-    "docIds": [
-      41731
-    ]
-  },
-  {
-    "posId": 10097,
-    "url": "https://lpd.court.gov.ua/legal-position/10097",
-    "status": "ok",
-    "docIds": [
-      41726
-    ]
-  },
-  {
-    "posId": 10098,
-    "url": "https://lpd.court.gov.ua/legal-position/10098",
-    "status": "ok",
-    "docIds": [
-      41325
-    ]
-  },
-  {
-    "posId": 10099,
-    "url": "https://lpd.court.gov.ua/legal-position/10099",
-    "status": "ok",
-    "docIds": [
-      41444
-    ]
-  },
-  {
-    "posId": 10100,
-    "url": "https://lpd.court.gov.ua/legal-position/10100",
-    "status": "ok",
-    "docIds": [
-      42529
-    ]
-  },
-  {
-    "posId": 10101,
-    "url": "https://lpd.court.gov.ua/legal-position/10101",
-    "status": "ok",
-    "docIds": [
-      42153
-    ]
-  },
-  {
-    "posId": 10102,
-    "url": "https://lpd.court.gov.ua/legal-position/10102",
-    "status": "ok",
-    "docIds": [
-      41913
-    ]
-  },
-  {
-    "posId": 10103,
-    "url": "https://lpd.court.gov.ua/legal-position/10103",
-    "status": "ok",
-    "docIds": [
-      41244
-    ]
-  },
-  {
-    "posId": 10104,
-    "url": "https://lpd.court.gov.ua/legal-position/10104",
+    "posId": 13594,
+    "url": "https://lpd.court.gov.ua/legal-position/13594",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10105,
-    "url": "https://lpd.court.gov.ua/legal-position/10105",
-    "status": "ok",
-    "docIds": [
-      42312
-    ]
-  },
-  {
-    "posId": 10106,
-    "url": "https://lpd.court.gov.ua/legal-position/10106",
-    "status": "ok",
-    "docIds": [
-      42311
-    ]
-  },
-  {
-    "posId": 10107,
-    "url": "https://lpd.court.gov.ua/legal-position/10107",
-    "status": "ok",
-    "docIds": [
-      41562
-    ]
-  },
-  {
-    "posId": 10108,
-    "url": "https://lpd.court.gov.ua/legal-position/10108",
-    "status": "ok",
-    "docIds": [
-      41247
-    ]
-  },
-  {
-    "posId": 10109,
-    "url": "https://lpd.court.gov.ua/legal-position/10109",
-    "status": "ok",
-    "docIds": [
-      42159
-    ]
-  },
-  {
-    "posId": 10110,
-    "url": "https://lpd.court.gov.ua/legal-position/10110",
-    "status": "ok",
-    "docIds": [
-      42150
-    ]
-  },
-  {
-    "posId": 10111,
-    "url": "https://lpd.court.gov.ua/legal-position/10111",
-    "status": "ok",
-    "docIds": [
-      41246
-    ]
-  },
-  {
-    "posId": 10112,
-    "url": "https://lpd.court.gov.ua/legal-position/10112",
-    "status": "ok",
-    "docIds": [
-      43335,
-      51231
-    ]
-  },
-  {
-    "posId": 10113,
-    "url": "https://lpd.court.gov.ua/legal-position/10113",
-    "status": "ok",
-    "docIds": [
-      43336
-    ]
-  },
-  {
-    "posId": 10114,
-    "url": "https://lpd.court.gov.ua/legal-position/10114",
-    "status": "ok",
-    "docIds": [
-      43337
-    ]
-  },
-  {
-    "posId": 10115,
-    "url": "https://lpd.court.gov.ua/legal-position/10115",
-    "status": "ok",
-    "docIds": [
-      43338
-    ]
-  },
-  {
-    "posId": 10116,
-    "url": "https://lpd.court.gov.ua/legal-position/10116",
-    "status": "ok",
-    "docIds": [
-      43339
-    ]
-  },
-  {
-    "posId": 10117,
-    "url": "https://lpd.court.gov.ua/legal-position/10117",
-    "status": "ok",
-    "docIds": [
-      43340
-    ]
-  },
-  {
-    "posId": 10118,
-    "url": "https://lpd.court.gov.ua/legal-position/10118",
-    "status": "ok",
-    "docIds": [
-      43341
-    ]
-  },
-  {
-    "posId": 10119,
-    "url": "https://lpd.court.gov.ua/legal-position/10119",
-    "status": "ok",
-    "docIds": [
-      43342
-    ]
-  },
-  {
-    "posId": 10120,
-    "url": "https://lpd.court.gov.ua/legal-position/10120",
-    "status": "ok",
-    "docIds": [
-      43343
-    ]
-  },
-  {
-    "posId": 10121,
-    "url": "https://lpd.court.gov.ua/legal-position/10121",
-    "status": "ok",
-    "docIds": [
-      41955
-    ]
-  },
-  {
-    "posId": 10122,
-    "url": "https://lpd.court.gov.ua/legal-position/10122",
-    "status": "ok",
-    "docIds": [
-      43344
-    ]
-  },
-  {
-    "posId": 10123,
-    "url": "https://lpd.court.gov.ua/legal-position/10123",
-    "status": "ok",
-    "docIds": [
-      43345
-    ]
-  },
-  {
-    "posId": 10124,
-    "url": "https://lpd.court.gov.ua/legal-position/10124",
-    "status": "ok",
-    "docIds": [
-      43346
-    ]
-  },
-  {
-    "posId": 10125,
-    "url": "https://lpd.court.gov.ua/legal-position/10125",
-    "status": "ok",
-    "docIds": [
-      43347
-    ]
-  },
-  {
-    "posId": 10126,
-    "url": "https://lpd.court.gov.ua/legal-position/10126",
-    "status": "ok",
-    "docIds": [
-      43348
-    ]
-  },
-  {
-    "posId": 10127,
-    "url": "https://lpd.court.gov.ua/legal-position/10127",
-    "status": "ok",
-    "docIds": [
-      42197
-    ]
-  },
-  {
-    "posId": 10128,
-    "url": "https://lpd.court.gov.ua/legal-position/10128",
+    "posId": 13595,
+    "url": "https://lpd.court.gov.ua/legal-position/13595",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10129,
-    "url": "https://lpd.court.gov.ua/legal-position/10129",
-    "status": "ok",
-    "docIds": [
-      43350
-    ]
-  },
-  {
-    "posId": 10130,
-    "url": "https://lpd.court.gov.ua/legal-position/10130",
-    "status": "ok",
-    "docIds": [
-      43350,
-      45513,
-      52116
-    ]
-  },
-  {
-    "posId": 10131,
-    "url": "https://lpd.court.gov.ua/legal-position/10131",
-    "status": "ok",
-    "docIds": [
-      43351
-    ]
-  },
-  {
-    "posId": 10132,
-    "url": "https://lpd.court.gov.ua/legal-position/10132",
+    "posId": 13596,
+    "url": "https://lpd.court.gov.ua/legal-position/13596",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10133,
-    "url": "https://lpd.court.gov.ua/legal-position/10133",
-    "status": "ok",
-    "docIds": [
-      43353
-    ]
-  },
-  {
-    "posId": 10134,
-    "url": "https://lpd.court.gov.ua/legal-position/10134",
-    "status": "ok",
-    "docIds": [
-      43354
-    ]
-  },
-  {
-    "posId": 10135,
-    "url": "https://lpd.court.gov.ua/legal-position/10135",
-    "status": "ok",
-    "docIds": [
-      43355
-    ]
-  },
-  {
-    "posId": 10136,
-    "url": "https://lpd.court.gov.ua/legal-position/10136",
-    "status": "ok",
-    "docIds": [
-      43356
-    ]
-  },
-  {
-    "posId": 10137,
-    "url": "https://lpd.court.gov.ua/legal-position/10137",
-    "status": "ok",
-    "docIds": [
-      43357
-    ]
-  },
-  {
-    "posId": 10138,
-    "url": "https://lpd.court.gov.ua/legal-position/10138",
-    "status": "ok",
-    "docIds": [
-      43358
-    ]
-  },
-  {
-    "posId": 10139,
-    "url": "https://lpd.court.gov.ua/legal-position/10139",
-    "status": "ok",
-    "docIds": [
-      43359
-    ]
-  },
-  {
-    "posId": 10140,
-    "url": "https://lpd.court.gov.ua/legal-position/10140",
+    "posId": 13597,
+    "url": "https://lpd.court.gov.ua/legal-position/13597",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10141,
-    "url": "https://lpd.court.gov.ua/legal-position/10141",
+    "posId": 13598,
+    "url": "https://lpd.court.gov.ua/legal-position/13598",
     "status": "ok",
     "docIds": [
-      43361
+      52052
     ]
   },
   {
-    "posId": 10142,
-    "url": "https://lpd.court.gov.ua/legal-position/10142",
+    "posId": 13599,
+    "url": "https://lpd.court.gov.ua/legal-position/13599",
     "status": "ok",
     "docIds": [
-      43362
+      52054
     ]
   },
   {
-    "posId": 10143,
-    "url": "https://lpd.court.gov.ua/legal-position/10143",
+    "posId": 13600,
+    "url": "https://lpd.court.gov.ua/legal-position/13600",
     "status": "ok",
     "docIds": [
-      43363
+      52072
     ]
   },
   {
-    "posId": 10144,
-    "url": "https://lpd.court.gov.ua/legal-position/10144",
-    "status": "ok",
-    "docIds": [
-      43364
-    ]
-  },
-  {
-    "posId": 10145,
-    "url": "https://lpd.court.gov.ua/legal-position/10145",
-    "status": "ok",
-    "docIds": [
-      43365
-    ]
-  },
-  {
-    "posId": 10146,
-    "url": "https://lpd.court.gov.ua/legal-position/10146",
-    "status": "ok",
-    "docIds": [
-      43366
-    ]
-  },
-  {
-    "posId": 10147,
-    "url": "https://lpd.court.gov.ua/legal-position/10147",
-    "status": "ok",
-    "docIds": [
-      43367
-    ]
-  },
-  {
-    "posId": 10148,
-    "url": "https://lpd.court.gov.ua/legal-position/10148",
-    "status": "ok",
-    "docIds": [
-      43368
-    ]
-  },
-  {
-    "posId": 10149,
-    "url": "https://lpd.court.gov.ua/legal-position/10149",
-    "status": "ok",
-    "docIds": [
-      43369
-    ]
-  },
-  {
-    "posId": 10150,
-    "url": "https://lpd.court.gov.ua/legal-position/10150",
-    "status": "ok",
-    "docIds": [
-      43370,
-      43435
-    ]
-  },
-  {
-    "posId": 10151,
-    "url": "https://lpd.court.gov.ua/legal-position/10151",
-    "status": "ok",
-    "docIds": [
-      8679,
-      43371
-    ]
-  },
-  {
-    "posId": 10152,
-    "url": "https://lpd.court.gov.ua/legal-position/10152",
-    "status": "ok",
-    "docIds": [
-      43372
-    ]
-  },
-  {
-    "posId": 10153,
-    "url": "https://lpd.court.gov.ua/legal-position/10153",
-    "status": "ok",
-    "docIds": [
-      43373
-    ]
-  },
-  {
-    "posId": 10154,
-    "url": "https://lpd.court.gov.ua/legal-position/10154",
-    "status": "ok",
-    "docIds": [
-      43374
-    ]
-  },
-  {
-    "posId": 10155,
-    "url": "https://lpd.court.gov.ua/legal-position/10155",
-    "status": "ok",
-    "docIds": [
-      43375
-    ]
-  },
-  {
-    "posId": 10156,
-    "url": "https://lpd.court.gov.ua/legal-position/10156",
-    "status": "ok",
-    "docIds": [
-      43376
-    ]
-  },
-  {
-    "posId": 10157,
-    "url": "https://lpd.court.gov.ua/legal-position/10157",
-    "status": "ok",
-    "docIds": [
-      43377
-    ]
-  },
-  {
-    "posId": 10158,
-    "url": "https://lpd.court.gov.ua/legal-position/10158",
-    "status": "ok",
-    "docIds": [
-      43378
-    ]
-  },
-  {
-    "posId": 10159,
-    "url": "https://lpd.court.gov.ua/legal-position/10159",
-    "status": "ok",
-    "docIds": [
-      43379
-    ]
-  },
-  {
-    "posId": 10160,
-    "url": "https://lpd.court.gov.ua/legal-position/10160",
-    "status": "ok",
-    "docIds": [
-      43380
-    ]
-  },
-  {
-    "posId": 10161,
-    "url": "https://lpd.court.gov.ua/legal-position/10161",
-    "status": "ok",
-    "docIds": [
-      43381
-    ]
-  },
-  {
-    "posId": 10162,
-    "url": "https://lpd.court.gov.ua/legal-position/10162",
-    "status": "ok",
-    "docIds": [
-      43382,
-      43621
-    ]
-  },
-  {
-    "posId": 10163,
-    "url": "https://lpd.court.gov.ua/legal-position/10163",
-    "status": "ok",
-    "docIds": [
-      43383
-    ]
-  },
-  {
-    "posId": 10164,
-    "url": "https://lpd.court.gov.ua/legal-position/10164",
-    "status": "ok",
-    "docIds": [
-      43384
-    ]
-  },
-  {
-    "posId": 10165,
-    "url": "https://lpd.court.gov.ua/legal-position/10165",
-    "status": "ok",
-    "docIds": [
-      43385
-    ]
-  },
-  {
-    "posId": 10166,
-    "url": "https://lpd.court.gov.ua/legal-position/10166",
-    "status": "ok",
-    "docIds": [
-      43386
-    ]
-  },
-  {
-    "posId": 10167,
-    "url": "https://lpd.court.gov.ua/legal-position/10167",
-    "status": "ok",
-    "docIds": [
-      43387
-    ]
-  },
-  {
-    "posId": 10168,
-    "url": "https://lpd.court.gov.ua/legal-position/10168",
-    "status": "ok",
-    "docIds": [
-      43388
-    ]
-  },
-  {
-    "posId": 10169,
-    "url": "https://lpd.court.gov.ua/legal-position/10169",
-    "status": "ok",
-    "docIds": [
-      43389
-    ]
-  },
-  {
-    "posId": 10170,
-    "url": "https://lpd.court.gov.ua/legal-position/10170",
-    "status": "ok",
-    "docIds": [
-      43390
-    ]
-  },
-  {
-    "posId": 10171,
-    "url": "https://lpd.court.gov.ua/legal-position/10171",
-    "status": "ok",
-    "docIds": [
-      43391
-    ]
-  },
-  {
-    "posId": 10172,
-    "url": "https://lpd.court.gov.ua/legal-position/10172",
-    "status": "ok",
-    "docIds": [
-      43392
-    ]
-  },
-  {
-    "posId": 10173,
-    "url": "https://lpd.court.gov.ua/legal-position/10173",
-    "status": "ok",
-    "docIds": [
-      43393
-    ]
-  },
-  {
-    "posId": 10174,
-    "url": "https://lpd.court.gov.ua/legal-position/10174",
-    "status": "ok",
-    "docIds": [
-      43394
-    ]
-  },
-  {
-    "posId": 10175,
-    "url": "https://lpd.court.gov.ua/legal-position/10175",
-    "status": "ok",
-    "docIds": [
-      43395
-    ]
-  },
-  {
-    "posId": 10176,
-    "url": "https://lpd.court.gov.ua/legal-position/10176",
-    "status": "ok",
-    "docIds": [
-      43396
-    ]
-  },
-  {
-    "posId": 10177,
-    "url": "https://lpd.court.gov.ua/legal-position/10177",
-    "status": "ok",
-    "docIds": [
-      43397
-    ]
-  },
-  {
-    "posId": 10178,
-    "url": "https://lpd.court.gov.ua/legal-position/10178",
-    "status": "ok",
-    "docIds": [
-      43398,
-      48149,
-      50515
-    ]
-  },
-  {
-    "posId": 10179,
-    "url": "https://lpd.court.gov.ua/legal-position/10179",
-    "status": "ok",
-    "docIds": [
-      43399
-    ]
-  },
-  {
-    "posId": 10180,
-    "url": "https://lpd.court.gov.ua/legal-position/10180",
-    "status": "ok",
-    "docIds": [
-      43400
-    ]
-  },
-  {
-    "posId": 10181,
-    "url": "https://lpd.court.gov.ua/legal-position/10181",
-    "status": "ok",
-    "docIds": [
-      43401
-    ]
-  },
-  {
-    "posId": 10182,
-    "url": "https://lpd.court.gov.ua/legal-position/10182",
-    "status": "ok",
-    "docIds": [
-      43402
-    ]
-  },
-  {
-    "posId": 10183,
-    "url": "https://lpd.court.gov.ua/legal-position/10183",
-    "status": "ok",
-    "docIds": [
-      43403
-    ]
-  },
-  {
-    "posId": 10184,
-    "url": "https://lpd.court.gov.ua/legal-position/10184",
-    "status": "ok",
-    "docIds": [
-      43404
-    ]
-  },
-  {
-    "posId": 10185,
-    "url": "https://lpd.court.gov.ua/legal-position/10185",
-    "status": "ok",
-    "docIds": [
-      43406
-    ]
-  },
-  {
-    "posId": 10186,
-    "url": "https://lpd.court.gov.ua/legal-position/10186",
-    "status": "ok",
-    "docIds": [
-      43407
-    ]
-  },
-  {
-    "posId": 10187,
-    "url": "https://lpd.court.gov.ua/legal-position/10187",
-    "status": "ok",
-    "docIds": [
-      43408
-    ]
-  },
-  {
-    "posId": 10188,
-    "url": "https://lpd.court.gov.ua/legal-position/10188",
-    "status": "ok",
-    "docIds": [
-      43409
-    ]
-  },
-  {
-    "posId": 10189,
-    "url": "https://lpd.court.gov.ua/legal-position/10189",
-    "status": "ok",
-    "docIds": [
-      43411
-    ]
-  },
-  {
-    "posId": 10190,
-    "url": "https://lpd.court.gov.ua/legal-position/10190",
-    "status": "ok",
-    "docIds": [
-      43412
-    ]
-  },
-  {
-    "posId": 10191,
-    "url": "https://lpd.court.gov.ua/legal-position/10191",
-    "status": "ok",
-    "docIds": [
-      43410
-    ]
-  },
-  {
-    "posId": 10192,
-    "url": "https://lpd.court.gov.ua/legal-position/10192",
-    "status": "ok",
-    "docIds": [
-      43413
-    ]
-  },
-  {
-    "posId": 10193,
-    "url": "https://lpd.court.gov.ua/legal-position/10193",
-    "status": "ok",
-    "docIds": [
-      43415
-    ]
-  },
-  {
-    "posId": 10194,
-    "url": "https://lpd.court.gov.ua/legal-position/10194",
-    "status": "ok",
-    "docIds": [
-      32649
-    ]
-  },
-  {
-    "posId": 10195,
-    "url": "https://lpd.court.gov.ua/legal-position/10195",
-    "status": "ok",
-    "docIds": [
-      43416
-    ]
-  },
-  {
-    "posId": 10196,
-    "url": "https://lpd.court.gov.ua/legal-position/10196",
-    "status": "ok",
-    "docIds": [
-      43417,
-      43937
-    ]
-  },
-  {
-    "posId": 10197,
-    "url": "https://lpd.court.gov.ua/legal-position/10197",
-    "status": "ok",
-    "docIds": [
-      43418
-    ]
-  },
-  {
-    "posId": 10198,
-    "url": "https://lpd.court.gov.ua/legal-position/10198",
-    "status": "ok",
-    "docIds": [
-      43419
-    ]
-  },
-  {
-    "posId": 10199,
-    "url": "https://lpd.court.gov.ua/legal-position/10199",
-    "status": "ok",
-    "docIds": [
-      43420
-    ]
-  },
-  {
-    "posId": 10200,
-    "url": "https://lpd.court.gov.ua/legal-position/10200",
-    "status": "ok",
-    "docIds": [
-      43421
-    ]
-  },
-  {
-    "posId": 10201,
-    "url": "https://lpd.court.gov.ua/legal-position/10201",
-    "status": "ok",
-    "docIds": [
-      43422
-    ]
-  },
-  {
-    "posId": 10202,
-    "url": "https://lpd.court.gov.ua/legal-position/10202",
-    "status": "ok",
-    "docIds": [
-      43423
-    ]
-  },
-  {
-    "posId": 10203,
-    "url": "https://lpd.court.gov.ua/legal-position/10203",
-    "status": "ok",
-    "docIds": [
-      43424
-    ]
-  },
-  {
-    "posId": 10204,
-    "url": "https://lpd.court.gov.ua/legal-position/10204",
-    "status": "ok",
-    "docIds": [
-      43425
-    ]
-  },
-  {
-    "posId": 10205,
-    "url": "https://lpd.court.gov.ua/legal-position/10205",
-    "status": "ok",
-    "docIds": [
-      43426
-    ]
-  },
-  {
-    "posId": 10206,
-    "url": "https://lpd.court.gov.ua/legal-position/10206",
+    "posId": 13601,
+    "url": "https://lpd.court.gov.ua/legal-position/13601",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10207,
-    "url": "https://lpd.court.gov.ua/legal-position/10207",
-    "status": "ok",
-    "docIds": [
-      43427
-    ]
-  },
-  {
-    "posId": 10208,
-    "url": "https://lpd.court.gov.ua/legal-position/10208",
-    "status": "ok",
-    "docIds": [
-      43428
-    ]
-  },
-  {
-    "posId": 10209,
-    "url": "https://lpd.court.gov.ua/legal-position/10209",
-    "status": "ok",
-    "docIds": [
-      24744
-    ]
-  },
-  {
-    "posId": 10210,
-    "url": "https://lpd.court.gov.ua/legal-position/10210",
-    "status": "ok",
-    "docIds": [
-      43429
-    ]
-  },
-  {
-    "posId": 10211,
-    "url": "https://lpd.court.gov.ua/legal-position/10211",
+    "posId": 13602,
+    "url": "https://lpd.court.gov.ua/legal-position/13602",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10212,
-    "url": "https://lpd.court.gov.ua/legal-position/10212",
+    "posId": 13603,
+    "url": "https://lpd.court.gov.ua/legal-position/13603",
+    "status": "ok",
+    "docIds": [
+      52074
+    ]
+  },
+  {
+    "posId": 13604,
+    "url": "https://lpd.court.gov.ua/legal-position/13604",
+    "status": "ok",
+    "docIds": [
+      52088
+    ]
+  },
+  {
+    "posId": 13605,
+    "url": "https://lpd.court.gov.ua/legal-position/13605",
+    "status": "ok",
+    "docIds": [
+      52089
+    ]
+  },
+  {
+    "posId": 13606,
+    "url": "https://lpd.court.gov.ua/legal-position/13606",
+    "status": "ok",
+    "docIds": [
+      52091
+    ]
+  },
+  {
+    "posId": 13607,
+    "url": "https://lpd.court.gov.ua/legal-position/13607",
+    "status": "ok",
+    "docIds": [
+      6164
+    ]
+  },
+  {
+    "posId": 13608,
+    "url": "https://lpd.court.gov.ua/legal-position/13608",
+    "status": "ok",
+    "docIds": [
+      52092
+    ]
+  },
+  {
+    "posId": 13609,
+    "url": "https://lpd.court.gov.ua/legal-position/13609",
+    "status": "ok",
+    "docIds": [
+      44595
+    ]
+  },
+  {
+    "posId": 13610,
+    "url": "https://lpd.court.gov.ua/legal-position/13610",
+    "status": "ok",
+    "docIds": [
+      51660
+    ]
+  },
+  {
+    "posId": 13611,
+    "url": "https://lpd.court.gov.ua/legal-position/13611",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10213,
-    "url": "https://lpd.court.gov.ua/legal-position/10213",
+    "posId": 13612,
+    "url": "https://lpd.court.gov.ua/legal-position/13612",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10214,
-    "url": "https://lpd.court.gov.ua/legal-position/10214",
-    "status": "ok",
-    "docIds": [
-      36596,
-      44047
-    ]
-  },
-  {
-    "posId": 10215,
-    "url": "https://lpd.court.gov.ua/legal-position/10215",
-    "status": "ok",
-    "docIds": [
-      43430
-    ]
-  },
-  {
-    "posId": 10216,
-    "url": "https://lpd.court.gov.ua/legal-position/10216",
-    "status": "ok",
-    "docIds": [
-      43431
-    ]
-  },
-  {
-    "posId": 10217,
-    "url": "https://lpd.court.gov.ua/legal-position/10217",
-    "status": "ok",
-    "docIds": [
-      23059
-    ]
-  },
-  {
-    "posId": 10218,
-    "url": "https://lpd.court.gov.ua/legal-position/10218",
-    "status": "ok",
-    "docIds": [
-      43433
-    ]
-  },
-  {
-    "posId": 10219,
-    "url": "https://lpd.court.gov.ua/legal-position/10219",
-    "status": "ok",
-    "docIds": [
-      43435
-    ]
-  },
-  {
-    "posId": 10220,
-    "url": "https://lpd.court.gov.ua/legal-position/10220",
-    "status": "ok",
-    "docIds": [
-      43436
-    ]
-  },
-  {
-    "posId": 10221,
-    "url": "https://lpd.court.gov.ua/legal-position/10221",
-    "status": "ok",
-    "docIds": [
-      43437
-    ]
-  },
-  {
-    "posId": 10222,
-    "url": "https://lpd.court.gov.ua/legal-position/10222",
-    "status": "ok",
-    "docIds": [
-      43434
-    ]
-  },
-  {
-    "posId": 10223,
-    "url": "https://lpd.court.gov.ua/legal-position/10223",
-    "status": "ok",
-    "docIds": [
-      43438
-    ]
-  },
-  {
-    "posId": 10224,
-    "url": "https://lpd.court.gov.ua/legal-position/10224",
-    "status": "ok",
-    "docIds": [
-      43439
-    ]
-  },
-  {
-    "posId": 10225,
-    "url": "https://lpd.court.gov.ua/legal-position/10225",
-    "status": "ok",
-    "docIds": [
-      43440
-    ]
-  },
-  {
-    "posId": 10226,
-    "url": "https://lpd.court.gov.ua/legal-position/10226",
-    "status": "ok",
-    "docIds": [
-      43441,
-      43655,
-      50496
-    ]
-  },
-  {
-    "posId": 10227,
-    "url": "https://lpd.court.gov.ua/legal-position/10227",
-    "status": "ok",
-    "docIds": [
-      43442
-    ]
-  },
-  {
-    "posId": 10228,
-    "url": "https://lpd.court.gov.ua/legal-position/10228",
-    "status": "ok",
-    "docIds": [
-      43443
-    ]
-  },
-  {
-    "posId": 10229,
-    "url": "https://lpd.court.gov.ua/legal-position/10229",
-    "status": "ok",
-    "docIds": [
-      43444
-    ]
-  },
-  {
-    "posId": 10230,
-    "url": "https://lpd.court.gov.ua/legal-position/10230",
-    "status": "ok",
-    "docIds": [
-      43445
-    ]
-  },
-  {
-    "posId": 10231,
-    "url": "https://lpd.court.gov.ua/legal-position/10231",
-    "status": "ok",
-    "docIds": [
-      14757
-    ]
-  },
-  {
-    "posId": 10232,
-    "url": "https://lpd.court.gov.ua/legal-position/10232",
-    "status": "ok",
-    "docIds": [
-      33507,
-      43446
-    ]
-  },
-  {
-    "posId": 10233,
-    "url": "https://lpd.court.gov.ua/legal-position/10233",
+    "posId": 13613,
+    "url": "https://lpd.court.gov.ua/legal-position/13613",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10234,
-    "url": "https://lpd.court.gov.ua/legal-position/10234",
+    "posId": 13614,
+    "url": "https://lpd.court.gov.ua/legal-position/13614",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10235,
-    "url": "https://lpd.court.gov.ua/legal-position/10235",
+    "posId": 13615,
+    "url": "https://lpd.court.gov.ua/legal-position/13615",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10236,
-    "url": "https://lpd.court.gov.ua/legal-position/10236",
+    "posId": 13616,
+    "url": "https://lpd.court.gov.ua/legal-position/13616",
+    "status": "ok",
+    "docIds": [
+      52105
+    ]
+  },
+  {
+    "posId": 13617,
+    "url": "https://lpd.court.gov.ua/legal-position/13617",
+    "status": "ok",
+    "docIds": [
+      52104
+    ]
+  },
+  {
+    "posId": 13618,
+    "url": "https://lpd.court.gov.ua/legal-position/13618",
+    "status": "ok",
+    "docIds": [
+      52106
+    ]
+  },
+  {
+    "posId": 13619,
+    "url": "https://lpd.court.gov.ua/legal-position/13619",
+    "status": "ok",
+    "docIds": [
+      52107
+    ]
+  },
+  {
+    "posId": 13620,
+    "url": "https://lpd.court.gov.ua/legal-position/13620",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10237,
-    "url": "https://lpd.court.gov.ua/legal-position/10237",
+    "posId": 13621,
+    "url": "https://lpd.court.gov.ua/legal-position/13621",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10238,
-    "url": "https://lpd.court.gov.ua/legal-position/10238",
-    "status": "ok",
-    "docIds": [
-      43447
-    ]
-  },
-  {
-    "posId": 10239,
-    "url": "https://lpd.court.gov.ua/legal-position/10239",
-    "status": "ok",
-    "docIds": [
-      41510
-    ]
-  },
-  {
-    "posId": 10240,
-    "url": "https://lpd.court.gov.ua/legal-position/10240",
-    "status": "ok",
-    "docIds": [
-      42046
-    ]
-  },
-  {
-    "posId": 10241,
-    "url": "https://lpd.court.gov.ua/legal-position/10241",
-    "status": "ok",
-    "docIds": [
-      36517
-    ]
-  },
-  {
-    "posId": 10242,
-    "url": "https://lpd.court.gov.ua/legal-position/10242",
-    "status": "ok",
-    "docIds": [
-      43448
-    ]
-  },
-  {
-    "posId": 10243,
-    "url": "https://lpd.court.gov.ua/legal-position/10243",
-    "status": "ok",
-    "docIds": [
-      40822
-    ]
-  },
-  {
-    "posId": 10244,
-    "url": "https://lpd.court.gov.ua/legal-position/10244",
-    "status": "ok",
-    "docIds": [
-      43451
-    ]
-  },
-  {
-    "posId": 10245,
-    "url": "https://lpd.court.gov.ua/legal-position/10245",
-    "status": "ok",
-    "docIds": [
-      43406
-    ]
-  },
-  {
-    "posId": 10246,
-    "url": "https://lpd.court.gov.ua/legal-position/10246",
-    "status": "ok",
-    "docIds": [
-      14757
-    ]
-  },
-  {
-    "posId": 10247,
-    "url": "https://lpd.court.gov.ua/legal-position/10247",
-    "status": "ok",
-    "docIds": [
-      43406
-    ]
-  },
-  {
-    "posId": 10248,
-    "url": "https://lpd.court.gov.ua/legal-position/10248",
-    "status": "ok",
-    "docIds": [
-      37229
-    ]
-  },
-  {
-    "posId": 10249,
-    "url": "https://lpd.court.gov.ua/legal-position/10249",
-    "status": "ok",
-    "docIds": [
-      38376
-    ]
-  },
-  {
-    "posId": 10250,
-    "url": "https://lpd.court.gov.ua/legal-position/10250",
-    "status": "ok",
-    "docIds": [
-      14980,
-      49421
-    ]
-  },
-  {
-    "posId": 10251,
-    "url": "https://lpd.court.gov.ua/legal-position/10251",
-    "status": "ok",
-    "docIds": [
-      43452,
-      43453
-    ]
-  },
-  {
-    "posId": 10252,
-    "url": "https://lpd.court.gov.ua/legal-position/10252",
-    "status": "ok",
-    "docIds": [
-      43454
-    ]
-  },
-  {
-    "posId": 10253,
-    "url": "https://lpd.court.gov.ua/legal-position/10253",
-    "status": "ok",
-    "docIds": [
-      43455
-    ]
-  },
-  {
-    "posId": 10254,
-    "url": "https://lpd.court.gov.ua/legal-position/10254",
-    "status": "ok",
-    "docIds": [
-      43456
-    ]
-  },
-  {
-    "posId": 10255,
-    "url": "https://lpd.court.gov.ua/legal-position/10255",
-    "status": "ok",
-    "docIds": [
-      43457
-    ]
-  },
-  {
-    "posId": 10256,
-    "url": "https://lpd.court.gov.ua/legal-position/10256",
-    "status": "ok",
-    "docIds": [
-      43458
-    ]
-  },
-  {
-    "posId": 10257,
-    "url": "https://lpd.court.gov.ua/legal-position/10257",
-    "status": "ok",
-    "docIds": [
-      43459
-    ]
-  },
-  {
-    "posId": 10258,
-    "url": "https://lpd.court.gov.ua/legal-position/10258",
-    "status": "ok",
-    "docIds": [
-      43460
-    ]
-  },
-  {
-    "posId": 10259,
-    "url": "https://lpd.court.gov.ua/legal-position/10259",
-    "status": "ok",
-    "docIds": [
-      43461
-    ]
-  },
-  {
-    "posId": 10260,
-    "url": "https://lpd.court.gov.ua/legal-position/10260",
-    "status": "ok",
-    "docIds": [
-      43462
-    ]
-  },
-  {
-    "posId": 10261,
-    "url": "https://lpd.court.gov.ua/legal-position/10261",
-    "status": "ok",
-    "docIds": [
-      43463,
-      43464
-    ]
-  },
-  {
-    "posId": 10262,
-    "url": "https://lpd.court.gov.ua/legal-position/10262",
-    "status": "ok",
-    "docIds": [
-      43465
-    ]
-  },
-  {
-    "posId": 10263,
-    "url": "https://lpd.court.gov.ua/legal-position/10263",
-    "status": "ok",
-    "docIds": [
-      43466
-    ]
-  },
-  {
-    "posId": 10264,
-    "url": "https://lpd.court.gov.ua/legal-position/10264",
-    "status": "ok",
-    "docIds": [
-      43467
-    ]
-  },
-  {
-    "posId": 10265,
-    "url": "https://lpd.court.gov.ua/legal-position/10265",
-    "status": "ok",
-    "docIds": [
-      43467
-    ]
-  },
-  {
-    "posId": 10266,
-    "url": "https://lpd.court.gov.ua/legal-position/10266",
-    "status": "ok",
-    "docIds": [
-      43468
-    ]
-  },
-  {
-    "posId": 10267,
-    "url": "https://lpd.court.gov.ua/legal-position/10267",
-    "status": "ok",
-    "docIds": [
-      43469
-    ]
-  },
-  {
-    "posId": 10268,
-    "url": "https://lpd.court.gov.ua/legal-position/10268",
-    "status": "ok",
-    "docIds": [
-      43470
-    ]
-  },
-  {
-    "posId": 10269,
-    "url": "https://lpd.court.gov.ua/legal-position/10269",
+    "posId": 13622,
+    "url": "https://lpd.court.gov.ua/legal-position/13622",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10270,
-    "url": "https://lpd.court.gov.ua/legal-position/10270",
-    "status": "ok",
-    "docIds": [
-      43472
-    ]
-  },
-  {
-    "posId": 10271,
-    "url": "https://lpd.court.gov.ua/legal-position/10271",
-    "status": "ok",
-    "docIds": [
-      43473
-    ]
-  },
-  {
-    "posId": 10272,
-    "url": "https://lpd.court.gov.ua/legal-position/10272",
-    "status": "ok",
-    "docIds": [
-      43474
-    ]
-  },
-  {
-    "posId": 10273,
-    "url": "https://lpd.court.gov.ua/legal-position/10273",
-    "status": "ok",
-    "docIds": [
-      43475
-    ]
-  },
-  {
-    "posId": 10274,
-    "url": "https://lpd.court.gov.ua/legal-position/10274",
-    "status": "ok",
-    "docIds": [
-      43476
-    ]
-  },
-  {
-    "posId": 10275,
-    "url": "https://lpd.court.gov.ua/legal-position/10275",
-    "status": "ok",
-    "docIds": [
-      43477
-    ]
-  },
-  {
-    "posId": 10276,
-    "url": "https://lpd.court.gov.ua/legal-position/10276",
-    "status": "ok",
-    "docIds": [
-      43478
-    ]
-  },
-  {
-    "posId": 10277,
-    "url": "https://lpd.court.gov.ua/legal-position/10277",
-    "status": "ok",
-    "docIds": [
-      43472
-    ]
-  },
-  {
-    "posId": 10278,
-    "url": "https://lpd.court.gov.ua/legal-position/10278",
-    "status": "ok",
-    "docIds": [
-      43472
-    ]
-  },
-  {
-    "posId": 10279,
-    "url": "https://lpd.court.gov.ua/legal-position/10279",
-    "status": "ok",
-    "docIds": [
-      43472
-    ]
-  },
-  {
-    "posId": 10280,
-    "url": "https://lpd.court.gov.ua/legal-position/10280",
-    "status": "ok",
-    "docIds": [
-      43479
-    ]
-  },
-  {
-    "posId": 10281,
-    "url": "https://lpd.court.gov.ua/legal-position/10281",
-    "status": "ok",
-    "docIds": [
-      43480
-    ]
-  },
-  {
-    "posId": 10282,
-    "url": "https://lpd.court.gov.ua/legal-position/10282",
-    "status": "ok",
-    "docIds": [
-      43481
-    ]
-  },
-  {
-    "posId": 10283,
-    "url": "https://lpd.court.gov.ua/legal-position/10283",
-    "status": "ok",
-    "docIds": [
-      43482
-    ]
-  },
-  {
-    "posId": 10284,
-    "url": "https://lpd.court.gov.ua/legal-position/10284",
-    "status": "ok",
-    "docIds": [
-      43483
-    ]
-  },
-  {
-    "posId": 10285,
-    "url": "https://lpd.court.gov.ua/legal-position/10285",
-    "status": "ok",
-    "docIds": [
-      43484
-    ]
-  },
-  {
-    "posId": 10286,
-    "url": "https://lpd.court.gov.ua/legal-position/10286",
-    "status": "ok",
-    "docIds": [
-      43485
-    ]
-  },
-  {
-    "posId": 10287,
-    "url": "https://lpd.court.gov.ua/legal-position/10287",
-    "status": "ok",
-    "docIds": [
-      43484
-    ]
-  },
-  {
-    "posId": 10288,
-    "url": "https://lpd.court.gov.ua/legal-position/10288",
-    "status": "ok",
-    "docIds": [
-      43486
-    ]
-  },
-  {
-    "posId": 10289,
-    "url": "https://lpd.court.gov.ua/legal-position/10289",
-    "status": "ok",
-    "docIds": [
-      43487
-    ]
-  },
-  {
-    "posId": 10290,
-    "url": "https://lpd.court.gov.ua/legal-position/10290",
-    "status": "ok",
-    "docIds": [
-      43488
-    ]
-  },
-  {
-    "posId": 10291,
-    "url": "https://lpd.court.gov.ua/legal-position/10291",
-    "status": "ok",
-    "docIds": [
-      43489
-    ]
-  },
-  {
-    "posId": 10292,
-    "url": "https://lpd.court.gov.ua/legal-position/10292",
-    "status": "ok",
-    "docIds": [
-      43490
-    ]
-  },
-  {
-    "posId": 10293,
-    "url": "https://lpd.court.gov.ua/legal-position/10293",
-    "status": "ok",
-    "docIds": [
-      43491
-    ]
-  },
-  {
-    "posId": 10294,
-    "url": "https://lpd.court.gov.ua/legal-position/10294",
-    "status": "ok",
-    "docIds": [
-      43520
-    ]
-  },
-  {
-    "posId": 10295,
-    "url": "https://lpd.court.gov.ua/legal-position/10295",
-    "status": "ok",
-    "docIds": [
-      43521
-    ]
-  },
-  {
-    "posId": 10296,
-    "url": "https://lpd.court.gov.ua/legal-position/10296",
-    "status": "ok",
-    "docIds": [
-      43522
-    ]
-  },
-  {
-    "posId": 10297,
-    "url": "https://lpd.court.gov.ua/legal-position/10297",
-    "status": "ok",
-    "docIds": [
-      43523
-    ]
-  },
-  {
-    "posId": 10298,
-    "url": "https://lpd.court.gov.ua/legal-position/10298",
-    "status": "ok",
-    "docIds": [
-      43524
-    ]
-  },
-  {
-    "posId": 10299,
-    "url": "https://lpd.court.gov.ua/legal-position/10299",
-    "status": "ok",
-    "docIds": [
-      43524
-    ]
-  },
-  {
-    "posId": 10300,
-    "url": "https://lpd.court.gov.ua/legal-position/10300",
-    "status": "ok",
-    "docIds": [
-      43525
-    ]
-  },
-  {
-    "posId": 10301,
-    "url": "https://lpd.court.gov.ua/legal-position/10301",
-    "status": "ok",
-    "docIds": [
-      43525
-    ]
-  },
-  {
-    "posId": 10302,
-    "url": "https://lpd.court.gov.ua/legal-position/10302",
-    "status": "ok",
-    "docIds": [
-      43526
-    ]
-  },
-  {
-    "posId": 10303,
-    "url": "https://lpd.court.gov.ua/legal-position/10303",
+    "posId": 13623,
+    "url": "https://lpd.court.gov.ua/legal-position/13623",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10304,
-    "url": "https://lpd.court.gov.ua/legal-position/10304",
+    "posId": 13624,
+    "url": "https://lpd.court.gov.ua/legal-position/13624",
     "status": "ok",
     "docIds": [
-      43528
+      52128
     ]
   },
   {
-    "posId": 10305,
-    "url": "https://lpd.court.gov.ua/legal-position/10305",
+    "posId": 13625,
+    "url": "https://lpd.court.gov.ua/legal-position/13625",
     "status": "ok",
     "docIds": [
-      43529
+      52134
     ]
   },
   {
-    "posId": 10306,
-    "url": "https://lpd.court.gov.ua/legal-position/10306",
+    "posId": 13626,
+    "url": "https://lpd.court.gov.ua/legal-position/13626",
     "status": "ok",
     "docIds": [
-      43530
+      52135
     ]
   },
   {
-    "posId": 10307,
-    "url": "https://lpd.court.gov.ua/legal-position/10307",
-    "status": "ok",
-    "docIds": [
-      43531
-    ]
-  },
-  {
-    "posId": 10308,
-    "url": "https://lpd.court.gov.ua/legal-position/10308",
-    "status": "ok",
-    "docIds": [
-      43532
-    ]
-  },
-  {
-    "posId": 10309,
-    "url": "https://lpd.court.gov.ua/legal-position/10309",
+    "posId": 13627,
+    "url": "https://lpd.court.gov.ua/legal-position/13627",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10310,
-    "url": "https://lpd.court.gov.ua/legal-position/10310",
+    "posId": 13628,
+    "url": "https://lpd.court.gov.ua/legal-position/13628",
     "status": "ok",
     "docIds": [
-      43534
+      52142
     ]
   },
   {
-    "posId": 10311,
-    "url": "https://lpd.court.gov.ua/legal-position/10311",
+    "posId": 13629,
+    "url": "https://lpd.court.gov.ua/legal-position/13629",
     "status": "ok",
     "docIds": [
-      43535
+      52144
     ]
   },
   {
-    "posId": 10312,
-    "url": "https://lpd.court.gov.ua/legal-position/10312",
+    "posId": 13630,
+    "url": "https://lpd.court.gov.ua/legal-position/13630",
     "status": "ok",
     "docIds": [
-      43536
+      52145,
+      52147
     ]
   },
   {
-    "posId": 10313,
-    "url": "https://lpd.court.gov.ua/legal-position/10313",
+    "posId": 13631,
+    "url": "https://lpd.court.gov.ua/legal-position/13631",
     "status": "ok",
     "docIds": [
-      47982
+      52148
     ]
   },
   {
-    "posId": 10314,
-    "url": "https://lpd.court.gov.ua/legal-position/10314",
-    "status": "ok",
-    "docIds": [
-      43297
-    ]
-  },
-  {
-    "posId": 10315,
-    "url": "https://lpd.court.gov.ua/legal-position/10315",
-    "status": "ok",
-    "docIds": [
-      43297
-    ]
-  },
-  {
-    "posId": 10316,
-    "url": "https://lpd.court.gov.ua/legal-position/10316",
-    "status": "ok",
-    "docIds": [
-      43297
-    ]
-  },
-  {
-    "posId": 10317,
-    "url": "https://lpd.court.gov.ua/legal-position/10317",
-    "status": "ok",
-    "docIds": [
-      43538
-    ]
-  },
-  {
-    "posId": 10318,
-    "url": "https://lpd.court.gov.ua/legal-position/10318",
-    "status": "ok",
-    "docIds": [
-      43539
-    ]
-  },
-  {
-    "posId": 10319,
-    "url": "https://lpd.court.gov.ua/legal-position/10319",
-    "status": "ok",
-    "docIds": [
-      43540
-    ]
-  },
-  {
-    "posId": 10320,
-    "url": "https://lpd.court.gov.ua/legal-position/10320",
-    "status": "ok",
-    "docIds": [
-      43541
-    ]
-  },
-  {
-    "posId": 10321,
-    "url": "https://lpd.court.gov.ua/legal-position/10321",
-    "status": "ok",
-    "docIds": [
-      43542
-    ]
-  },
-  {
-    "posId": 10322,
-    "url": "https://lpd.court.gov.ua/legal-position/10322",
-    "status": "ok",
-    "docIds": [
-      43542
-    ]
-  },
-  {
-    "posId": 10323,
-    "url": "https://lpd.court.gov.ua/legal-position/10323",
-    "status": "ok",
-    "docIds": [
-      43545
-    ]
-  },
-  {
-    "posId": 10324,
-    "url": "https://lpd.court.gov.ua/legal-position/10324",
-    "status": "ok",
-    "docIds": [
-      43541
-    ]
-  },
-  {
-    "posId": 10325,
-    "url": "https://lpd.court.gov.ua/legal-position/10325",
-    "status": "ok",
-    "docIds": [
-      43541
-    ]
-  },
-  {
-    "posId": 10326,
-    "url": "https://lpd.court.gov.ua/legal-position/10326",
-    "status": "ok",
-    "docIds": [
-      43541
-    ]
-  },
-  {
-    "posId": 10327,
-    "url": "https://lpd.court.gov.ua/legal-position/10327",
-    "status": "ok",
-    "docIds": [
-      43546
-    ]
-  },
-  {
-    "posId": 10328,
-    "url": "https://lpd.court.gov.ua/legal-position/10328",
-    "status": "ok",
-    "docIds": [
-      43547,
-      51488
-    ]
-  },
-  {
-    "posId": 10329,
-    "url": "https://lpd.court.gov.ua/legal-position/10329",
-    "status": "ok",
-    "docIds": [
-      43548
-    ]
-  },
-  {
-    "posId": 10330,
-    "url": "https://lpd.court.gov.ua/legal-position/10330",
-    "status": "ok",
-    "docIds": [
-      43549
-    ]
-  },
-  {
-    "posId": 10331,
-    "url": "https://lpd.court.gov.ua/legal-position/10331",
-    "status": "ok",
-    "docIds": [
-      43550
-    ]
-  },
-  {
-    "posId": 10332,
-    "url": "https://lpd.court.gov.ua/legal-position/10332",
-    "status": "ok",
-    "docIds": [
-      43551
-    ]
-  },
-  {
-    "posId": 10333,
-    "url": "https://lpd.court.gov.ua/legal-position/10333",
-    "status": "ok",
-    "docIds": [
-      43551
-    ]
-  },
-  {
-    "posId": 10334,
-    "url": "https://lpd.court.gov.ua/legal-position/10334",
-    "status": "ok",
-    "docIds": [
-      43552,
-      51389
-    ]
-  },
-  {
-    "posId": 10335,
-    "url": "https://lpd.court.gov.ua/legal-position/10335",
-    "status": "ok",
-    "docIds": [
-      43553
-    ]
-  },
-  {
-    "posId": 10336,
-    "url": "https://lpd.court.gov.ua/legal-position/10336",
-    "status": "ok",
-    "docIds": [
-      43554
-    ]
-  },
-  {
-    "posId": 10337,
-    "url": "https://lpd.court.gov.ua/legal-position/10337",
-    "status": "ok",
-    "docIds": [
-      43545
-    ]
-  },
-  {
-    "posId": 10338,
-    "url": "https://lpd.court.gov.ua/legal-position/10338",
-    "status": "ok",
-    "docIds": [
-      43545
-    ]
-  },
-  {
-    "posId": 10339,
-    "url": "https://lpd.court.gov.ua/legal-position/10339",
-    "status": "ok",
-    "docIds": [
-      43545
-    ]
-  },
-  {
-    "posId": 10340,
-    "url": "https://lpd.court.gov.ua/legal-position/10340",
-    "status": "ok",
-    "docIds": [
-      43545
-    ]
-  },
-  {
-    "posId": 10341,
-    "url": "https://lpd.court.gov.ua/legal-position/10341",
-    "status": "ok",
-    "docIds": [
-      43555
-    ]
-  },
-  {
-    "posId": 10342,
-    "url": "https://lpd.court.gov.ua/legal-position/10342",
-    "status": "ok",
-    "docIds": [
-      43556
-    ]
-  },
-  {
-    "posId": 10343,
-    "url": "https://lpd.court.gov.ua/legal-position/10343",
-    "status": "ok",
-    "docIds": [
-      43557
-    ]
-  },
-  {
-    "posId": 10344,
-    "url": "https://lpd.court.gov.ua/legal-position/10344",
+    "posId": 13632,
+    "url": "https://lpd.court.gov.ua/legal-position/13632",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10345,
-    "url": "https://lpd.court.gov.ua/legal-position/10345",
+    "posId": 13633,
+    "url": "https://lpd.court.gov.ua/legal-position/13633",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10346,
-    "url": "https://lpd.court.gov.ua/legal-position/10346",
-    "status": "ok",
-    "docIds": [
-      43542
-    ]
-  },
-  {
-    "posId": 10347,
-    "url": "https://lpd.court.gov.ua/legal-position/10347",
-    "status": "ok",
-    "docIds": [
-      43558
-    ]
-  },
-  {
-    "posId": 10348,
-    "url": "https://lpd.court.gov.ua/legal-position/10348",
-    "status": "ok",
-    "docIds": [
-      43559
-    ]
-  },
-  {
-    "posId": 10349,
-    "url": "https://lpd.court.gov.ua/legal-position/10349",
-    "status": "ok",
-    "docIds": [
-      43561
-    ]
-  },
-  {
-    "posId": 10350,
-    "url": "https://lpd.court.gov.ua/legal-position/10350",
-    "status": "ok",
-    "docIds": [
-      43562
-    ]
-  },
-  {
-    "posId": 10351,
-    "url": "https://lpd.court.gov.ua/legal-position/10351",
-    "status": "ok",
-    "docIds": [
-      43563
-    ]
-  },
-  {
-    "posId": 10352,
-    "url": "https://lpd.court.gov.ua/legal-position/10352",
-    "status": "ok",
-    "docIds": [
-      43564
-    ]
-  },
-  {
-    "posId": 10353,
-    "url": "https://lpd.court.gov.ua/legal-position/10353",
-    "status": "ok",
-    "docIds": [
-      43565
-    ]
-  },
-  {
-    "posId": 10354,
-    "url": "https://lpd.court.gov.ua/legal-position/10354",
-    "status": "ok",
-    "docIds": [
-      43566
-    ]
-  },
-  {
-    "posId": 10355,
-    "url": "https://lpd.court.gov.ua/legal-position/10355",
-    "status": "ok",
-    "docIds": [
-      43567
-    ]
-  },
-  {
-    "posId": 10356,
-    "url": "https://lpd.court.gov.ua/legal-position/10356",
-    "status": "ok",
-    "docIds": [
-      43568
-    ]
-  },
-  {
-    "posId": 10357,
-    "url": "https://lpd.court.gov.ua/legal-position/10357",
-    "status": "ok",
-    "docIds": [
-      43569
-    ]
-  },
-  {
-    "posId": 10358,
-    "url": "https://lpd.court.gov.ua/legal-position/10358",
-    "status": "ok",
-    "docIds": [
-      43570
-    ]
-  },
-  {
-    "posId": 10359,
-    "url": "https://lpd.court.gov.ua/legal-position/10359",
-    "status": "ok",
-    "docIds": [
-      43571
-    ]
-  },
-  {
-    "posId": 10360,
-    "url": "https://lpd.court.gov.ua/legal-position/10360",
-    "status": "ok",
-    "docIds": [
-      43572
-    ]
-  },
-  {
-    "posId": 10361,
-    "url": "https://lpd.court.gov.ua/legal-position/10361",
-    "status": "ok",
-    "docIds": [
-      43573
-    ]
-  },
-  {
-    "posId": 10362,
-    "url": "https://lpd.court.gov.ua/legal-position/10362",
-    "status": "ok",
-    "docIds": [
-      43544
-    ]
-  },
-  {
-    "posId": 10363,
-    "url": "https://lpd.court.gov.ua/legal-position/10363",
-    "status": "ok",
-    "docIds": [
-      43574
-    ]
-  },
-  {
-    "posId": 10364,
-    "url": "https://lpd.court.gov.ua/legal-position/10364",
-    "status": "ok",
-    "docIds": [
-      43575
-    ]
-  },
-  {
-    "posId": 10365,
-    "url": "https://lpd.court.gov.ua/legal-position/10365",
-    "status": "ok",
-    "docIds": [
-      43576
-    ]
-  },
-  {
-    "posId": 10366,
-    "url": "https://lpd.court.gov.ua/legal-position/10366",
-    "status": "ok",
-    "docIds": [
-      43576
-    ]
-  },
-  {
-    "posId": 10367,
-    "url": "https://lpd.court.gov.ua/legal-position/10367",
-    "status": "ok",
-    "docIds": [
-      43577
-    ]
-  },
-  {
-    "posId": 10368,
-    "url": "https://lpd.court.gov.ua/legal-position/10368",
-    "status": "ok",
-    "docIds": [
-      43578
-    ]
-  },
-  {
-    "posId": 10369,
-    "url": "https://lpd.court.gov.ua/legal-position/10369",
-    "status": "ok",
-    "docIds": [
-      43578
-    ]
-  },
-  {
-    "posId": 10370,
-    "url": "https://lpd.court.gov.ua/legal-position/10370",
-    "status": "ok",
-    "docIds": [
-      43579
-    ]
-  },
-  {
-    "posId": 10371,
-    "url": "https://lpd.court.gov.ua/legal-position/10371",
-    "status": "ok",
-    "docIds": [
-      43580
-    ]
-  },
-  {
-    "posId": 10372,
-    "url": "https://lpd.court.gov.ua/legal-position/10372",
-    "status": "ok",
-    "docIds": [
-      43581
-    ]
-  },
-  {
-    "posId": 10373,
-    "url": "https://lpd.court.gov.ua/legal-position/10373",
-    "status": "ok",
-    "docIds": [
-      43582
-    ]
-  },
-  {
-    "posId": 10374,
-    "url": "https://lpd.court.gov.ua/legal-position/10374",
-    "status": "ok",
-    "docIds": [
-      43583
-    ]
-  },
-  {
-    "posId": 10375,
-    "url": "https://lpd.court.gov.ua/legal-position/10375",
-    "status": "ok",
-    "docIds": [
-      43584
-    ]
-  },
-  {
-    "posId": 10376,
-    "url": "https://lpd.court.gov.ua/legal-position/10376",
-    "status": "ok",
-    "docIds": [
-      43584
-    ]
-  },
-  {
-    "posId": 10377,
-    "url": "https://lpd.court.gov.ua/legal-position/10377",
-    "status": "ok",
-    "docIds": [
-      43584,
-      50098
-    ]
-  },
-  {
-    "posId": 10378,
-    "url": "https://lpd.court.gov.ua/legal-position/10378",
-    "status": "ok",
-    "docIds": [
-      43585
-    ]
-  },
-  {
-    "posId": 10379,
-    "url": "https://lpd.court.gov.ua/legal-position/10379",
-    "status": "ok",
-    "docIds": [
-      43586
-    ]
-  },
-  {
-    "posId": 10380,
-    "url": "https://lpd.court.gov.ua/legal-position/10380",
-    "status": "ok",
-    "docIds": [
-      43587
-    ]
-  },
-  {
-    "posId": 10381,
-    "url": "https://lpd.court.gov.ua/legal-position/10381",
+    "posId": 13634,
+    "url": "https://lpd.court.gov.ua/legal-position/13634",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10382,
-    "url": "https://lpd.court.gov.ua/legal-position/10382",
-    "status": "ok",
-    "docIds": [
-      43588
-    ]
-  },
-  {
-    "posId": 10383,
-    "url": "https://lpd.court.gov.ua/legal-position/10383",
-    "status": "ok",
-    "docIds": [
-      43589
-    ]
-  },
-  {
-    "posId": 10384,
-    "url": "https://lpd.court.gov.ua/legal-position/10384",
+    "posId": 13635,
+    "url": "https://lpd.court.gov.ua/legal-position/13635",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10385,
-    "url": "https://lpd.court.gov.ua/legal-position/10385",
+    "posId": 13636,
+    "url": "https://lpd.court.gov.ua/legal-position/13636",
     "status": "ok",
     "docIds": [
-      43593
+      52161
     ]
   },
   {
-    "posId": 10386,
-    "url": "https://lpd.court.gov.ua/legal-position/10386",
-    "status": "ok",
-    "docIds": [
-      43594
-    ]
-  },
-  {
-    "posId": 10387,
-    "url": "https://lpd.court.gov.ua/legal-position/10387",
-    "status": "ok",
-    "docIds": [
-      43595,
-      46765
-    ]
-  },
-  {
-    "posId": 10388,
-    "url": "https://lpd.court.gov.ua/legal-position/10388",
-    "status": "ok",
-    "docIds": [
-      43596
-    ]
-  },
-  {
-    "posId": 10389,
-    "url": "https://lpd.court.gov.ua/legal-position/10389",
-    "status": "ok",
-    "docIds": [
-      43597
-    ]
-  },
-  {
-    "posId": 10390,
-    "url": "https://lpd.court.gov.ua/legal-position/10390",
-    "status": "ok",
-    "docIds": [
-      43598
-    ]
-  },
-  {
-    "posId": 10391,
-    "url": "https://lpd.court.gov.ua/legal-position/10391",
-    "status": "ok",
-    "docIds": [
-      43599
-    ]
-  },
-  {
-    "posId": 10392,
-    "url": "https://lpd.court.gov.ua/legal-position/10392",
-    "status": "ok",
-    "docIds": [
-      43600
-    ]
-  },
-  {
-    "posId": 10393,
-    "url": "https://lpd.court.gov.ua/legal-position/10393",
-    "status": "ok",
-    "docIds": [
-      43602
-    ]
-  },
-  {
-    "posId": 10394,
-    "url": "https://lpd.court.gov.ua/legal-position/10394",
-    "status": "ok",
-    "docIds": [
-      43604
-    ]
-  },
-  {
-    "posId": 10395,
-    "url": "https://lpd.court.gov.ua/legal-position/10395",
+    "posId": 13637,
+    "url": "https://lpd.court.gov.ua/legal-position/13637",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10396,
-    "url": "https://lpd.court.gov.ua/legal-position/10396",
-    "status": "ok",
-    "docIds": [
-      43607
-    ]
-  },
-  {
-    "posId": 10397,
-    "url": "https://lpd.court.gov.ua/legal-position/10397",
-    "status": "ok",
-    "docIds": [
-      43608
-    ]
-  },
-  {
-    "posId": 10398,
-    "url": "https://lpd.court.gov.ua/legal-position/10398",
-    "status": "ok",
-    "docIds": [
-      43609
-    ]
-  },
-  {
-    "posId": 10399,
-    "url": "https://lpd.court.gov.ua/legal-position/10399",
-    "status": "ok",
-    "docIds": [
-      43610
-    ]
-  },
-  {
-    "posId": 10400,
-    "url": "https://lpd.court.gov.ua/legal-position/10400",
-    "status": "ok",
-    "docIds": [
-      43605,
-      49791
-    ]
-  },
-  {
-    "posId": 10401,
-    "url": "https://lpd.court.gov.ua/legal-position/10401",
-    "status": "ok",
-    "docIds": [
-      43611
-    ]
-  },
-  {
-    "posId": 10402,
-    "url": "https://lpd.court.gov.ua/legal-position/10402",
-    "status": "ok",
-    "docIds": [
-      43613
-    ]
-  },
-  {
-    "posId": 10403,
-    "url": "https://lpd.court.gov.ua/legal-position/10403",
-    "status": "ok",
-    "docIds": [
-      43612,
-      49509
-    ]
-  },
-  {
-    "posId": 10404,
-    "url": "https://lpd.court.gov.ua/legal-position/10404",
-    "status": "ok",
-    "docIds": [
-      43614,
-      48991
-    ]
-  },
-  {
-    "posId": 10405,
-    "url": "https://lpd.court.gov.ua/legal-position/10405",
-    "status": "ok",
-    "docIds": [
-      43615,
-      51229
-    ]
-  },
-  {
-    "posId": 10406,
-    "url": "https://lpd.court.gov.ua/legal-position/10406",
-    "status": "ok",
-    "docIds": [
-      43616
-    ]
-  },
-  {
-    "posId": 10407,
-    "url": "https://lpd.court.gov.ua/legal-position/10407",
-    "status": "ok",
-    "docIds": [
-      43617
-    ]
-  },
-  {
-    "posId": 10408,
-    "url": "https://lpd.court.gov.ua/legal-position/10408",
-    "status": "ok",
-    "docIds": [
-      43618,
-      52122
-    ]
-  },
-  {
-    "posId": 10409,
-    "url": "https://lpd.court.gov.ua/legal-position/10409",
-    "status": "ok",
-    "docIds": [
-      43619
-    ]
-  },
-  {
-    "posId": 10410,
-    "url": "https://lpd.court.gov.ua/legal-position/10410",
-    "status": "ok",
-    "docIds": [
-      43620
-    ]
-  },
-  {
-    "posId": 10411,
-    "url": "https://lpd.court.gov.ua/legal-position/10411",
-    "status": "ok",
-    "docIds": [
-      43621
-    ]
-  },
-  {
-    "posId": 10412,
-    "url": "https://lpd.court.gov.ua/legal-position/10412",
-    "status": "ok",
-    "docIds": [
-      43622
-    ]
-  },
-  {
-    "posId": 10413,
-    "url": "https://lpd.court.gov.ua/legal-position/10413",
-    "status": "no_docs",
-    "docIds": []
-  },
-  {
-    "posId": 10414,
-    "url": "https://lpd.court.gov.ua/legal-position/10414",
-    "status": "ok",
-    "docIds": [
-      43624
-    ]
-  },
-  {
-    "posId": 10415,
-    "url": "https://lpd.court.gov.ua/legal-position/10415",
-    "status": "ok",
-    "docIds": [
-      43625
-    ]
-  },
-  {
-    "posId": 10416,
-    "url": "https://lpd.court.gov.ua/legal-position/10416",
-    "status": "ok",
-    "docIds": [
-      43626
-    ]
-  },
-  {
-    "posId": 10417,
-    "url": "https://lpd.court.gov.ua/legal-position/10417",
-    "status": "ok",
-    "docIds": [
-      43627
-    ]
-  },
-  {
-    "posId": 10418,
-    "url": "https://lpd.court.gov.ua/legal-position/10418",
-    "status": "ok",
-    "docIds": [
-      43628
-    ]
-  },
-  {
-    "posId": 10419,
-    "url": "https://lpd.court.gov.ua/legal-position/10419",
-    "status": "ok",
-    "docIds": [
-      43630
-    ]
-  },
-  {
-    "posId": 10420,
-    "url": "https://lpd.court.gov.ua/legal-position/10420",
-    "status": "ok",
-    "docIds": [
-      43631
-    ]
-  },
-  {
-    "posId": 10421,
-    "url": "https://lpd.court.gov.ua/legal-position/10421",
-    "status": "ok",
-    "docIds": [
-      43632
-    ]
-  },
-  {
-    "posId": 10422,
-    "url": "https://lpd.court.gov.ua/legal-position/10422",
-    "status": "ok",
-    "docIds": [
-      43633
-    ]
-  },
-  {
-    "posId": 10423,
-    "url": "https://lpd.court.gov.ua/legal-position/10423",
-    "status": "ok",
-    "docIds": [
-      43634
-    ]
-  },
-  {
-    "posId": 10424,
-    "url": "https://lpd.court.gov.ua/legal-position/10424",
-    "status": "ok",
-    "docIds": [
-      43635
-    ]
-  },
-  {
-    "posId": 10425,
-    "url": "https://lpd.court.gov.ua/legal-position/10425",
-    "status": "ok",
-    "docIds": [
-      43636
-    ]
-  },
-  {
-    "posId": 10426,
-    "url": "https://lpd.court.gov.ua/legal-position/10426",
-    "status": "ok",
-    "docIds": [
-      43637
-    ]
-  },
-  {
-    "posId": 10427,
-    "url": "https://lpd.court.gov.ua/legal-position/10427",
-    "status": "ok",
-    "docIds": [
-      43638
-    ]
-  },
-  {
-    "posId": 10428,
-    "url": "https://lpd.court.gov.ua/legal-position/10428",
-    "status": "ok",
-    "docIds": [
-      43639
-    ]
-  },
-  {
-    "posId": 10429,
-    "url": "https://lpd.court.gov.ua/legal-position/10429",
-    "status": "ok",
-    "docIds": [
-      43640
-    ]
-  },
-  {
-    "posId": 10430,
-    "url": "https://lpd.court.gov.ua/legal-position/10430",
-    "status": "ok",
-    "docIds": [
-      43641
-    ]
-  },
-  {
-    "posId": 10431,
-    "url": "https://lpd.court.gov.ua/legal-position/10431",
-    "status": "ok",
-    "docIds": [
-      43642
-    ]
-  },
-  {
-    "posId": 10432,
-    "url": "https://lpd.court.gov.ua/legal-position/10432",
-    "status": "ok",
-    "docIds": [
-      43643
-    ]
-  },
-  {
-    "posId": 10433,
-    "url": "https://lpd.court.gov.ua/legal-position/10433",
-    "status": "ok",
-    "docIds": [
-      43644
-    ]
-  },
-  {
-    "posId": 10434,
-    "url": "https://lpd.court.gov.ua/legal-position/10434",
-    "status": "ok",
-    "docIds": [
-      43645,
-      48925
-    ]
-  },
-  {
-    "posId": 10435,
-    "url": "https://lpd.court.gov.ua/legal-position/10435",
-    "status": "ok",
-    "docIds": [
-      43646
-    ]
-  },
-  {
-    "posId": 10436,
-    "url": "https://lpd.court.gov.ua/legal-position/10436",
-    "status": "ok",
-    "docIds": [
-      43647
-    ]
-  },
-  {
-    "posId": 10437,
-    "url": "https://lpd.court.gov.ua/legal-position/10437",
-    "status": "ok",
-    "docIds": [
-      43648
-    ]
-  },
-  {
-    "posId": 10438,
-    "url": "https://lpd.court.gov.ua/legal-position/10438",
-    "status": "ok",
-    "docIds": [
-      43649
-    ]
-  },
-  {
-    "posId": 10439,
-    "url": "https://lpd.court.gov.ua/legal-position/10439",
-    "status": "ok",
-    "docIds": [
-      43650,
-      44269
-    ]
-  },
-  {
-    "posId": 10440,
-    "url": "https://lpd.court.gov.ua/legal-position/10440",
-    "status": "ok",
-    "docIds": [
-      43652,
-      48810
-    ]
-  },
-  {
-    "posId": 10441,
-    "url": "https://lpd.court.gov.ua/legal-position/10441",
-    "status": "ok",
-    "docIds": [
-      43653
-    ]
-  },
-  {
-    "posId": 10442,
-    "url": "https://lpd.court.gov.ua/legal-position/10442",
-    "status": "ok",
-    "docIds": [
-      43654
-    ]
-  },
-  {
-    "posId": 10443,
-    "url": "https://lpd.court.gov.ua/legal-position/10443",
-    "status": "ok",
-    "docIds": [
-      43655,
-      50496
-    ]
-  },
-  {
-    "posId": 10444,
-    "url": "https://lpd.court.gov.ua/legal-position/10444",
-    "status": "ok",
-    "docIds": [
-      43656
-    ]
-  },
-  {
-    "posId": 10445,
-    "url": "https://lpd.court.gov.ua/legal-position/10445",
-    "status": "ok",
-    "docIds": [
-      43657
-    ]
-  },
-  {
-    "posId": 10446,
-    "url": "https://lpd.court.gov.ua/legal-position/10446",
-    "status": "ok",
-    "docIds": [
-      43658
-    ]
-  },
-  {
-    "posId": 10447,
-    "url": "https://lpd.court.gov.ua/legal-position/10447",
-    "status": "ok",
-    "docIds": [
-      43659
-    ]
-  },
-  {
-    "posId": 10448,
-    "url": "https://lpd.court.gov.ua/legal-position/10448",
-    "status": "ok",
-    "docIds": [
-      43660
-    ]
-  },
-  {
-    "posId": 10449,
-    "url": "https://lpd.court.gov.ua/legal-position/10449",
-    "status": "ok",
-    "docIds": [
-      43661
-    ]
-  },
-  {
-    "posId": 10450,
-    "url": "https://lpd.court.gov.ua/legal-position/10450",
-    "status": "ok",
-    "docIds": [
-      43662
-    ]
-  },
-  {
-    "posId": 10451,
-    "url": "https://lpd.court.gov.ua/legal-position/10451",
-    "status": "ok",
-    "docIds": [
-      43663
-    ]
-  },
-  {
-    "posId": 10452,
-    "url": "https://lpd.court.gov.ua/legal-position/10452",
-    "status": "ok",
-    "docIds": [
-      43664
-    ]
-  },
-  {
-    "posId": 10453,
-    "url": "https://lpd.court.gov.ua/legal-position/10453",
-    "status": "ok",
-    "docIds": [
-      43665
-    ]
-  },
-  {
-    "posId": 10454,
-    "url": "https://lpd.court.gov.ua/legal-position/10454",
-    "status": "ok",
-    "docIds": [
-      43666
-    ]
-  },
-  {
-    "posId": 10455,
-    "url": "https://lpd.court.gov.ua/legal-position/10455",
-    "status": "ok",
-    "docIds": [
-      43667
-    ]
-  },
-  {
-    "posId": 10456,
-    "url": "https://lpd.court.gov.ua/legal-position/10456",
-    "status": "ok",
-    "docIds": [
-      43668
-    ]
-  },
-  {
-    "posId": 10457,
-    "url": "https://lpd.court.gov.ua/legal-position/10457",
-    "status": "ok",
-    "docIds": [
-      43669
-    ]
-  },
-  {
-    "posId": 10458,
-    "url": "https://lpd.court.gov.ua/legal-position/10458",
-    "status": "ok",
-    "docIds": [
-      43670
-    ]
-  },
-  {
-    "posId": 10459,
-    "url": "https://lpd.court.gov.ua/legal-position/10459",
-    "status": "ok",
-    "docIds": [
-      43672
-    ]
-  },
-  {
-    "posId": 10460,
-    "url": "https://lpd.court.gov.ua/legal-position/10460",
-    "status": "ok",
-    "docIds": [
-      43673
-    ]
-  },
-  {
-    "posId": 10461,
-    "url": "https://lpd.court.gov.ua/legal-position/10461",
-    "status": "ok",
-    "docIds": [
-      43370,
-      43674,
-      50512
-    ]
-  },
-  {
-    "posId": 10462,
-    "url": "https://lpd.court.gov.ua/legal-position/10462",
-    "status": "ok",
-    "docIds": [
-      43678
-    ]
-  },
-  {
-    "posId": 10463,
-    "url": "https://lpd.court.gov.ua/legal-position/10463",
-    "status": "ok",
-    "docIds": [
-      43678,
-      44058
-    ]
-  },
-  {
-    "posId": 10464,
-    "url": "https://lpd.court.gov.ua/legal-position/10464",
-    "status": "ok",
-    "docIds": [
-      43679
-    ]
-  },
-  {
-    "posId": 10465,
-    "url": "https://lpd.court.gov.ua/legal-position/10465",
-    "status": "ok",
-    "docIds": [
-      43680
-    ]
-  },
-  {
-    "posId": 10466,
-    "url": "https://lpd.court.gov.ua/legal-position/10466",
-    "status": "ok",
-    "docIds": [
-      43681
-    ]
-  },
-  {
-    "posId": 10467,
-    "url": "https://lpd.court.gov.ua/legal-position/10467",
-    "status": "ok",
-    "docIds": [
-      43682
-    ]
-  },
-  {
-    "posId": 10468,
-    "url": "https://lpd.court.gov.ua/legal-position/10468",
-    "status": "ok",
-    "docIds": [
-      43683
-    ]
-  },
-  {
-    "posId": 10469,
-    "url": "https://lpd.court.gov.ua/legal-position/10469",
-    "status": "ok",
-    "docIds": [
-      43684
-    ]
-  },
-  {
-    "posId": 10470,
-    "url": "https://lpd.court.gov.ua/legal-position/10470",
-    "status": "ok",
-    "docIds": [
-      43685
-    ]
-  },
-  {
-    "posId": 10471,
-    "url": "https://lpd.court.gov.ua/legal-position/10471",
-    "status": "ok",
-    "docIds": [
-      43686,
-      51928
-    ]
-  },
-  {
-    "posId": 10472,
-    "url": "https://lpd.court.gov.ua/legal-position/10472",
-    "status": "ok",
-    "docIds": [
-      43687
-    ]
-  },
-  {
-    "posId": 10473,
-    "url": "https://lpd.court.gov.ua/legal-position/10473",
-    "status": "ok",
-    "docIds": [
-      43688
-    ]
-  },
-  {
-    "posId": 10474,
-    "url": "https://lpd.court.gov.ua/legal-position/10474",
-    "status": "ok",
-    "docIds": [
-      43689
-    ]
-  },
-  {
-    "posId": 10475,
-    "url": "https://lpd.court.gov.ua/legal-position/10475",
-    "status": "ok",
-    "docIds": [
-      43690,
-      43767
-    ]
-  },
-  {
-    "posId": 10476,
-    "url": "https://lpd.court.gov.ua/legal-position/10476",
-    "status": "ok",
-    "docIds": [
-      43691
-    ]
-  },
-  {
-    "posId": 10477,
-    "url": "https://lpd.court.gov.ua/legal-position/10477",
-    "status": "ok",
-    "docIds": [
-      43692
-    ]
-  },
-  {
-    "posId": 10478,
-    "url": "https://lpd.court.gov.ua/legal-position/10478",
+    "posId": 13638,
+    "url": "https://lpd.court.gov.ua/legal-position/13638",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10479,
-    "url": "https://lpd.court.gov.ua/legal-position/10479",
-    "status": "ok",
-    "docIds": [
-      43694
-    ]
-  },
-  {
-    "posId": 10480,
-    "url": "https://lpd.court.gov.ua/legal-position/10480",
-    "status": "ok",
-    "docIds": [
-      43695
-    ]
-  },
-  {
-    "posId": 10481,
-    "url": "https://lpd.court.gov.ua/legal-position/10481",
-    "status": "ok",
-    "docIds": [
-      43696
-    ]
-  },
-  {
-    "posId": 10482,
-    "url": "https://lpd.court.gov.ua/legal-position/10482",
-    "status": "ok",
-    "docIds": [
-      43697
-    ]
-  },
-  {
-    "posId": 10483,
-    "url": "https://lpd.court.gov.ua/legal-position/10483",
-    "status": "ok",
-    "docIds": [
-      43698
-    ]
-  },
-  {
-    "posId": 10484,
-    "url": "https://lpd.court.gov.ua/legal-position/10484",
+    "posId": 13639,
+    "url": "https://lpd.court.gov.ua/legal-position/13639",
     "status": "not_found",
     "docIds": []
   },
   {
-    "posId": 10485,
-    "url": "https://lpd.court.gov.ua/legal-position/10485",
+    "posId": 13640,
+    "url": "https://lpd.court.gov.ua/legal-position/13640",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13641,
+    "url": "https://lpd.court.gov.ua/legal-position/13641",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13642,
+    "url": "https://lpd.court.gov.ua/legal-position/13642",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13643,
+    "url": "https://lpd.court.gov.ua/legal-position/13643",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13644,
+    "url": "https://lpd.court.gov.ua/legal-position/13644",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13645,
+    "url": "https://lpd.court.gov.ua/legal-position/13645",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13646,
+    "url": "https://lpd.court.gov.ua/legal-position/13646",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13647,
+    "url": "https://lpd.court.gov.ua/legal-position/13647",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13648,
+    "url": "https://lpd.court.gov.ua/legal-position/13648",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13649,
+    "url": "https://lpd.court.gov.ua/legal-position/13649",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13650,
+    "url": "https://lpd.court.gov.ua/legal-position/13650",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13651,
+    "url": "https://lpd.court.gov.ua/legal-position/13651",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13652,
+    "url": "https://lpd.court.gov.ua/legal-position/13652",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13653,
+    "url": "https://lpd.court.gov.ua/legal-position/13653",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13654,
+    "url": "https://lpd.court.gov.ua/legal-position/13654",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13655,
+    "url": "https://lpd.court.gov.ua/legal-position/13655",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13656,
+    "url": "https://lpd.court.gov.ua/legal-position/13656",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13657,
+    "url": "https://lpd.court.gov.ua/legal-position/13657",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13658,
+    "url": "https://lpd.court.gov.ua/legal-position/13658",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13659,
+    "url": "https://lpd.court.gov.ua/legal-position/13659",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13660,
+    "url": "https://lpd.court.gov.ua/legal-position/13660",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13661,
+    "url": "https://lpd.court.gov.ua/legal-position/13661",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13662,
+    "url": "https://lpd.court.gov.ua/legal-position/13662",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13663,
+    "url": "https://lpd.court.gov.ua/legal-position/13663",
     "status": "ok",
     "docIds": [
-      43700
+      51570
     ]
   },
   {
-    "posId": 10486,
-    "url": "https://lpd.court.gov.ua/legal-position/10486",
+    "posId": 13664,
+    "url": "https://lpd.court.gov.ua/legal-position/13664",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13665,
+    "url": "https://lpd.court.gov.ua/legal-position/13665",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13666,
+    "url": "https://lpd.court.gov.ua/legal-position/13666",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13667,
+    "url": "https://lpd.court.gov.ua/legal-position/13667",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13668,
+    "url": "https://lpd.court.gov.ua/legal-position/13668",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13669,
+    "url": "https://lpd.court.gov.ua/legal-position/13669",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13670,
+    "url": "https://lpd.court.gov.ua/legal-position/13670",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13671,
+    "url": "https://lpd.court.gov.ua/legal-position/13671",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13672,
+    "url": "https://lpd.court.gov.ua/legal-position/13672",
     "status": "ok",
     "docIds": [
-      4168,
-      14631,
-      35807,
-      43701,
-      49072,
-      49412,
-      49413,
-      51714
+      52228
     ]
   },
   {
-    "posId": 10487,
-    "url": "https://lpd.court.gov.ua/legal-position/10487",
+    "posId": 13673,
+    "url": "https://lpd.court.gov.ua/legal-position/13673",
     "status": "ok",
     "docIds": [
-      43702
+      52230
     ]
   },
   {
-    "posId": 10488,
-    "url": "https://lpd.court.gov.ua/legal-position/10488",
+    "posId": 13674,
+    "url": "https://lpd.court.gov.ua/legal-position/13674",
     "status": "ok",
     "docIds": [
-      43703,
-      44102,
-      44103
+      52232
     ]
   },
   {
-    "posId": 10489,
-    "url": "https://lpd.court.gov.ua/legal-position/10489",
+    "posId": 13675,
+    "url": "https://lpd.court.gov.ua/legal-position/13675",
     "status": "ok",
     "docIds": [
-      43704
+      52233
     ]
   },
   {
-    "posId": 10490,
-    "url": "https://lpd.court.gov.ua/legal-position/10490",
+    "posId": 13676,
+    "url": "https://lpd.court.gov.ua/legal-position/13676",
     "status": "ok",
     "docIds": [
-      43705,
-      46388
+      52171
     ]
   },
   {
-    "posId": 10491,
-    "url": "https://lpd.court.gov.ua/legal-position/10491",
+    "posId": 13677,
+    "url": "https://lpd.court.gov.ua/legal-position/13677",
     "status": "ok",
     "docIds": [
-      43706
+      52109
     ]
   },
   {
-    "posId": 10492,
-    "url": "https://lpd.court.gov.ua/legal-position/10492",
-    "status": "ok",
-    "docIds": [
-      43707
-    ]
+    "posId": 13678,
+    "url": "https://lpd.court.gov.ua/legal-position/13678",
+    "status": "not_found",
+    "docIds": []
   },
   {
-    "posId": 10493,
-    "url": "https://lpd.court.gov.ua/legal-position/10493",
-    "status": "ok",
-    "docIds": [
-      43708
-    ]
+    "posId": 13679,
+    "url": "https://lpd.court.gov.ua/legal-position/13679",
+    "status": "not_found",
+    "docIds": []
   },
   {
-    "posId": 10494,
-    "url": "https://lpd.court.gov.ua/legal-position/10494",
-    "status": "ok",
-    "docIds": [
-      43709,
-      48660
-    ]
+    "posId": 13680,
+    "url": "https://lpd.court.gov.ua/legal-position/13680",
+    "status": "not_found",
+    "docIds": []
   },
   {
-    "posId": 10495,
-    "url": "https://lpd.court.gov.ua/legal-position/10495",
-    "status": "ok",
-    "docIds": [
-      43710
-    ]
+    "posId": 13681,
+    "url": "https://lpd.court.gov.ua/legal-position/13681",
+    "status": "not_found",
+    "docIds": []
   },
   {
-    "posId": 10496,
-    "url": "https://lpd.court.gov.ua/legal-position/10496",
-    "status": "ok",
-    "docIds": [
-      43711
-    ]
+    "posId": 13682,
+    "url": "https://lpd.court.gov.ua/legal-position/13682",
+    "status": "not_found",
+    "docIds": []
   },
   {
-    "posId": 10497,
-    "url": "https://lpd.court.gov.ua/legal-position/10497",
-    "status": "ok",
-    "docIds": [
-      43712
-    ]
+    "posId": 13683,
+    "url": "https://lpd.court.gov.ua/legal-position/13683",
+    "status": "not_found",
+    "docIds": []
   },
   {
-    "posId": 10498,
-    "url": "https://lpd.court.gov.ua/legal-position/10498",
-    "status": "ok",
-    "docIds": [
-      43713
-    ]
+    "posId": 13684,
+    "url": "https://lpd.court.gov.ua/legal-position/13684",
+    "status": "not_found",
+    "docIds": []
   },
   {
-    "posId": 10499,
-    "url": "https://lpd.court.gov.ua/legal-position/10499",
-    "status": "ok",
-    "docIds": [
-      43714
-    ]
+    "posId": 13685,
+    "url": "https://lpd.court.gov.ua/legal-position/13685",
+    "status": "not_found",
+    "docIds": []
   },
   {
-    "posId": 10500,
-    "url": "https://lpd.court.gov.ua/legal-position/10500",
-    "status": "ok",
-    "docIds": [
-      43715
-    ]
+    "posId": 13686,
+    "url": "https://lpd.court.gov.ua/legal-position/13686",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13687,
+    "url": "https://lpd.court.gov.ua/legal-position/13687",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13688,
+    "url": "https://lpd.court.gov.ua/legal-position/13688",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13689,
+    "url": "https://lpd.court.gov.ua/legal-position/13689",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13690,
+    "url": "https://lpd.court.gov.ua/legal-position/13690",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13691,
+    "url": "https://lpd.court.gov.ua/legal-position/13691",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13692,
+    "url": "https://lpd.court.gov.ua/legal-position/13692",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13693,
+    "url": "https://lpd.court.gov.ua/legal-position/13693",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13694,
+    "url": "https://lpd.court.gov.ua/legal-position/13694",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13695,
+    "url": "https://lpd.court.gov.ua/legal-position/13695",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13696,
+    "url": "https://lpd.court.gov.ua/legal-position/13696",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13697,
+    "url": "https://lpd.court.gov.ua/legal-position/13697",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13698,
+    "url": "https://lpd.court.gov.ua/legal-position/13698",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13699,
+    "url": "https://lpd.court.gov.ua/legal-position/13699",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13700,
+    "url": "https://lpd.court.gov.ua/legal-position/13700",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13701,
+    "url": "https://lpd.court.gov.ua/legal-position/13701",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13702,
+    "url": "https://lpd.court.gov.ua/legal-position/13702",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13703,
+    "url": "https://lpd.court.gov.ua/legal-position/13703",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13704,
+    "url": "https://lpd.court.gov.ua/legal-position/13704",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13705,
+    "url": "https://lpd.court.gov.ua/legal-position/13705",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13706,
+    "url": "https://lpd.court.gov.ua/legal-position/13706",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13707,
+    "url": "https://lpd.court.gov.ua/legal-position/13707",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13708,
+    "url": "https://lpd.court.gov.ua/legal-position/13708",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13709,
+    "url": "https://lpd.court.gov.ua/legal-position/13709",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13710,
+    "url": "https://lpd.court.gov.ua/legal-position/13710",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13711,
+    "url": "https://lpd.court.gov.ua/legal-position/13711",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13712,
+    "url": "https://lpd.court.gov.ua/legal-position/13712",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13713,
+    "url": "https://lpd.court.gov.ua/legal-position/13713",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13714,
+    "url": "https://lpd.court.gov.ua/legal-position/13714",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13715,
+    "url": "https://lpd.court.gov.ua/legal-position/13715",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13716,
+    "url": "https://lpd.court.gov.ua/legal-position/13716",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13717,
+    "url": "https://lpd.court.gov.ua/legal-position/13717",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13718,
+    "url": "https://lpd.court.gov.ua/legal-position/13718",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13719,
+    "url": "https://lpd.court.gov.ua/legal-position/13719",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13720,
+    "url": "https://lpd.court.gov.ua/legal-position/13720",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13721,
+    "url": "https://lpd.court.gov.ua/legal-position/13721",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13722,
+    "url": "https://lpd.court.gov.ua/legal-position/13722",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13723,
+    "url": "https://lpd.court.gov.ua/legal-position/13723",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13724,
+    "url": "https://lpd.court.gov.ua/legal-position/13724",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13725,
+    "url": "https://lpd.court.gov.ua/legal-position/13725",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13726,
+    "url": "https://lpd.court.gov.ua/legal-position/13726",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13727,
+    "url": "https://lpd.court.gov.ua/legal-position/13727",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13728,
+    "url": "https://lpd.court.gov.ua/legal-position/13728",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13729,
+    "url": "https://lpd.court.gov.ua/legal-position/13729",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13730,
+    "url": "https://lpd.court.gov.ua/legal-position/13730",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13731,
+    "url": "https://lpd.court.gov.ua/legal-position/13731",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13732,
+    "url": "https://lpd.court.gov.ua/legal-position/13732",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13733,
+    "url": "https://lpd.court.gov.ua/legal-position/13733",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13734,
+    "url": "https://lpd.court.gov.ua/legal-position/13734",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13735,
+    "url": "https://lpd.court.gov.ua/legal-position/13735",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13736,
+    "url": "https://lpd.court.gov.ua/legal-position/13736",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13737,
+    "url": "https://lpd.court.gov.ua/legal-position/13737",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13738,
+    "url": "https://lpd.court.gov.ua/legal-position/13738",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13739,
+    "url": "https://lpd.court.gov.ua/legal-position/13739",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13740,
+    "url": "https://lpd.court.gov.ua/legal-position/13740",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13741,
+    "url": "https://lpd.court.gov.ua/legal-position/13741",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13742,
+    "url": "https://lpd.court.gov.ua/legal-position/13742",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13743,
+    "url": "https://lpd.court.gov.ua/legal-position/13743",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13744,
+    "url": "https://lpd.court.gov.ua/legal-position/13744",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13745,
+    "url": "https://lpd.court.gov.ua/legal-position/13745",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13746,
+    "url": "https://lpd.court.gov.ua/legal-position/13746",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13747,
+    "url": "https://lpd.court.gov.ua/legal-position/13747",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13748,
+    "url": "https://lpd.court.gov.ua/legal-position/13748",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13749,
+    "url": "https://lpd.court.gov.ua/legal-position/13749",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13750,
+    "url": "https://lpd.court.gov.ua/legal-position/13750",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13751,
+    "url": "https://lpd.court.gov.ua/legal-position/13751",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13752,
+    "url": "https://lpd.court.gov.ua/legal-position/13752",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13753,
+    "url": "https://lpd.court.gov.ua/legal-position/13753",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13754,
+    "url": "https://lpd.court.gov.ua/legal-position/13754",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13755,
+    "url": "https://lpd.court.gov.ua/legal-position/13755",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13756,
+    "url": "https://lpd.court.gov.ua/legal-position/13756",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13757,
+    "url": "https://lpd.court.gov.ua/legal-position/13757",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13758,
+    "url": "https://lpd.court.gov.ua/legal-position/13758",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13759,
+    "url": "https://lpd.court.gov.ua/legal-position/13759",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13760,
+    "url": "https://lpd.court.gov.ua/legal-position/13760",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13761,
+    "url": "https://lpd.court.gov.ua/legal-position/13761",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13762,
+    "url": "https://lpd.court.gov.ua/legal-position/13762",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13763,
+    "url": "https://lpd.court.gov.ua/legal-position/13763",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13764,
+    "url": "https://lpd.court.gov.ua/legal-position/13764",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13765,
+    "url": "https://lpd.court.gov.ua/legal-position/13765",
+    "status": "error",
+    "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://lpd.court.gov.ua/legal-position/13765\", waiting until \"networkidle\"\u001b[22m\n",
+    "docIds": []
+  },
+  {
+    "posId": 13766,
+    "url": "https://lpd.court.gov.ua/legal-position/13766",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13767,
+    "url": "https://lpd.court.gov.ua/legal-position/13767",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13768,
+    "url": "https://lpd.court.gov.ua/legal-position/13768",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13769,
+    "url": "https://lpd.court.gov.ua/legal-position/13769",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13770,
+    "url": "https://lpd.court.gov.ua/legal-position/13770",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13771,
+    "url": "https://lpd.court.gov.ua/legal-position/13771",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13772,
+    "url": "https://lpd.court.gov.ua/legal-position/13772",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13773,
+    "url": "https://lpd.court.gov.ua/legal-position/13773",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13774,
+    "url": "https://lpd.court.gov.ua/legal-position/13774",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13775,
+    "url": "https://lpd.court.gov.ua/legal-position/13775",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13776,
+    "url": "https://lpd.court.gov.ua/legal-position/13776",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13777,
+    "url": "https://lpd.court.gov.ua/legal-position/13777",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13778,
+    "url": "https://lpd.court.gov.ua/legal-position/13778",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13779,
+    "url": "https://lpd.court.gov.ua/legal-position/13779",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13780,
+    "url": "https://lpd.court.gov.ua/legal-position/13780",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13781,
+    "url": "https://lpd.court.gov.ua/legal-position/13781",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13782,
+    "url": "https://lpd.court.gov.ua/legal-position/13782",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13783,
+    "url": "https://lpd.court.gov.ua/legal-position/13783",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13784,
+    "url": "https://lpd.court.gov.ua/legal-position/13784",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13785,
+    "url": "https://lpd.court.gov.ua/legal-position/13785",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13786,
+    "url": "https://lpd.court.gov.ua/legal-position/13786",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13787,
+    "url": "https://lpd.court.gov.ua/legal-position/13787",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13788,
+    "url": "https://lpd.court.gov.ua/legal-position/13788",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13789,
+    "url": "https://lpd.court.gov.ua/legal-position/13789",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13790,
+    "url": "https://lpd.court.gov.ua/legal-position/13790",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13791,
+    "url": "https://lpd.court.gov.ua/legal-position/13791",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13792,
+    "url": "https://lpd.court.gov.ua/legal-position/13792",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13793,
+    "url": "https://lpd.court.gov.ua/legal-position/13793",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13794,
+    "url": "https://lpd.court.gov.ua/legal-position/13794",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13795,
+    "url": "https://lpd.court.gov.ua/legal-position/13795",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13796,
+    "url": "https://lpd.court.gov.ua/legal-position/13796",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13797,
+    "url": "https://lpd.court.gov.ua/legal-position/13797",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13798,
+    "url": "https://lpd.court.gov.ua/legal-position/13798",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13799,
+    "url": "https://lpd.court.gov.ua/legal-position/13799",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13800,
+    "url": "https://lpd.court.gov.ua/legal-position/13800",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13801,
+    "url": "https://lpd.court.gov.ua/legal-position/13801",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13802,
+    "url": "https://lpd.court.gov.ua/legal-position/13802",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13803,
+    "url": "https://lpd.court.gov.ua/legal-position/13803",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13804,
+    "url": "https://lpd.court.gov.ua/legal-position/13804",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13805,
+    "url": "https://lpd.court.gov.ua/legal-position/13805",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13806,
+    "url": "https://lpd.court.gov.ua/legal-position/13806",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13807,
+    "url": "https://lpd.court.gov.ua/legal-position/13807",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13808,
+    "url": "https://lpd.court.gov.ua/legal-position/13808",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13809,
+    "url": "https://lpd.court.gov.ua/legal-position/13809",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13810,
+    "url": "https://lpd.court.gov.ua/legal-position/13810",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13811,
+    "url": "https://lpd.court.gov.ua/legal-position/13811",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13812,
+    "url": "https://lpd.court.gov.ua/legal-position/13812",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13813,
+    "url": "https://lpd.court.gov.ua/legal-position/13813",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13814,
+    "url": "https://lpd.court.gov.ua/legal-position/13814",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13815,
+    "url": "https://lpd.court.gov.ua/legal-position/13815",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13816,
+    "url": "https://lpd.court.gov.ua/legal-position/13816",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13817,
+    "url": "https://lpd.court.gov.ua/legal-position/13817",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13818,
+    "url": "https://lpd.court.gov.ua/legal-position/13818",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13819,
+    "url": "https://lpd.court.gov.ua/legal-position/13819",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13820,
+    "url": "https://lpd.court.gov.ua/legal-position/13820",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13821,
+    "url": "https://lpd.court.gov.ua/legal-position/13821",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13822,
+    "url": "https://lpd.court.gov.ua/legal-position/13822",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13823,
+    "url": "https://lpd.court.gov.ua/legal-position/13823",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13824,
+    "url": "https://lpd.court.gov.ua/legal-position/13824",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13825,
+    "url": "https://lpd.court.gov.ua/legal-position/13825",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13826,
+    "url": "https://lpd.court.gov.ua/legal-position/13826",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13827,
+    "url": "https://lpd.court.gov.ua/legal-position/13827",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13828,
+    "url": "https://lpd.court.gov.ua/legal-position/13828",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13829,
+    "url": "https://lpd.court.gov.ua/legal-position/13829",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13830,
+    "url": "https://lpd.court.gov.ua/legal-position/13830",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13831,
+    "url": "https://lpd.court.gov.ua/legal-position/13831",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13832,
+    "url": "https://lpd.court.gov.ua/legal-position/13832",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13833,
+    "url": "https://lpd.court.gov.ua/legal-position/13833",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13834,
+    "url": "https://lpd.court.gov.ua/legal-position/13834",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13835,
+    "url": "https://lpd.court.gov.ua/legal-position/13835",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13836,
+    "url": "https://lpd.court.gov.ua/legal-position/13836",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13837,
+    "url": "https://lpd.court.gov.ua/legal-position/13837",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13838,
+    "url": "https://lpd.court.gov.ua/legal-position/13838",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13839,
+    "url": "https://lpd.court.gov.ua/legal-position/13839",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13840,
+    "url": "https://lpd.court.gov.ua/legal-position/13840",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13841,
+    "url": "https://lpd.court.gov.ua/legal-position/13841",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13842,
+    "url": "https://lpd.court.gov.ua/legal-position/13842",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13843,
+    "url": "https://lpd.court.gov.ua/legal-position/13843",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13844,
+    "url": "https://lpd.court.gov.ua/legal-position/13844",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13845,
+    "url": "https://lpd.court.gov.ua/legal-position/13845",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13846,
+    "url": "https://lpd.court.gov.ua/legal-position/13846",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13847,
+    "url": "https://lpd.court.gov.ua/legal-position/13847",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13848,
+    "url": "https://lpd.court.gov.ua/legal-position/13848",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13849,
+    "url": "https://lpd.court.gov.ua/legal-position/13849",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13850,
+    "url": "https://lpd.court.gov.ua/legal-position/13850",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13851,
+    "url": "https://lpd.court.gov.ua/legal-position/13851",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13852,
+    "url": "https://lpd.court.gov.ua/legal-position/13852",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13853,
+    "url": "https://lpd.court.gov.ua/legal-position/13853",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13854,
+    "url": "https://lpd.court.gov.ua/legal-position/13854",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13855,
+    "url": "https://lpd.court.gov.ua/legal-position/13855",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13856,
+    "url": "https://lpd.court.gov.ua/legal-position/13856",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13857,
+    "url": "https://lpd.court.gov.ua/legal-position/13857",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13858,
+    "url": "https://lpd.court.gov.ua/legal-position/13858",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13859,
+    "url": "https://lpd.court.gov.ua/legal-position/13859",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13860,
+    "url": "https://lpd.court.gov.ua/legal-position/13860",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13861,
+    "url": "https://lpd.court.gov.ua/legal-position/13861",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13862,
+    "url": "https://lpd.court.gov.ua/legal-position/13862",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13863,
+    "url": "https://lpd.court.gov.ua/legal-position/13863",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13864,
+    "url": "https://lpd.court.gov.ua/legal-position/13864",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13865,
+    "url": "https://lpd.court.gov.ua/legal-position/13865",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13866,
+    "url": "https://lpd.court.gov.ua/legal-position/13866",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13867,
+    "url": "https://lpd.court.gov.ua/legal-position/13867",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13868,
+    "url": "https://lpd.court.gov.ua/legal-position/13868",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13869,
+    "url": "https://lpd.court.gov.ua/legal-position/13869",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13870,
+    "url": "https://lpd.court.gov.ua/legal-position/13870",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13871,
+    "url": "https://lpd.court.gov.ua/legal-position/13871",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13872,
+    "url": "https://lpd.court.gov.ua/legal-position/13872",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13873,
+    "url": "https://lpd.court.gov.ua/legal-position/13873",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13874,
+    "url": "https://lpd.court.gov.ua/legal-position/13874",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13875,
+    "url": "https://lpd.court.gov.ua/legal-position/13875",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13876,
+    "url": "https://lpd.court.gov.ua/legal-position/13876",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13877,
+    "url": "https://lpd.court.gov.ua/legal-position/13877",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13878,
+    "url": "https://lpd.court.gov.ua/legal-position/13878",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13879,
+    "url": "https://lpd.court.gov.ua/legal-position/13879",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13880,
+    "url": "https://lpd.court.gov.ua/legal-position/13880",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13881,
+    "url": "https://lpd.court.gov.ua/legal-position/13881",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13882,
+    "url": "https://lpd.court.gov.ua/legal-position/13882",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13883,
+    "url": "https://lpd.court.gov.ua/legal-position/13883",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13884,
+    "url": "https://lpd.court.gov.ua/legal-position/13884",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13885,
+    "url": "https://lpd.court.gov.ua/legal-position/13885",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13886,
+    "url": "https://lpd.court.gov.ua/legal-position/13886",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13887,
+    "url": "https://lpd.court.gov.ua/legal-position/13887",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13888,
+    "url": "https://lpd.court.gov.ua/legal-position/13888",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13889,
+    "url": "https://lpd.court.gov.ua/legal-position/13889",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13890,
+    "url": "https://lpd.court.gov.ua/legal-position/13890",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13891,
+    "url": "https://lpd.court.gov.ua/legal-position/13891",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13892,
+    "url": "https://lpd.court.gov.ua/legal-position/13892",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13893,
+    "url": "https://lpd.court.gov.ua/legal-position/13893",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13894,
+    "url": "https://lpd.court.gov.ua/legal-position/13894",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13895,
+    "url": "https://lpd.court.gov.ua/legal-position/13895",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13896,
+    "url": "https://lpd.court.gov.ua/legal-position/13896",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13897,
+    "url": "https://lpd.court.gov.ua/legal-position/13897",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13898,
+    "url": "https://lpd.court.gov.ua/legal-position/13898",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13899,
+    "url": "https://lpd.court.gov.ua/legal-position/13899",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13900,
+    "url": "https://lpd.court.gov.ua/legal-position/13900",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13901,
+    "url": "https://lpd.court.gov.ua/legal-position/13901",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13902,
+    "url": "https://lpd.court.gov.ua/legal-position/13902",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13903,
+    "url": "https://lpd.court.gov.ua/legal-position/13903",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13904,
+    "url": "https://lpd.court.gov.ua/legal-position/13904",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13905,
+    "url": "https://lpd.court.gov.ua/legal-position/13905",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13906,
+    "url": "https://lpd.court.gov.ua/legal-position/13906",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13907,
+    "url": "https://lpd.court.gov.ua/legal-position/13907",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13908,
+    "url": "https://lpd.court.gov.ua/legal-position/13908",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13909,
+    "url": "https://lpd.court.gov.ua/legal-position/13909",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13910,
+    "url": "https://lpd.court.gov.ua/legal-position/13910",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13911,
+    "url": "https://lpd.court.gov.ua/legal-position/13911",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13912,
+    "url": "https://lpd.court.gov.ua/legal-position/13912",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13913,
+    "url": "https://lpd.court.gov.ua/legal-position/13913",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13914,
+    "url": "https://lpd.court.gov.ua/legal-position/13914",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13915,
+    "url": "https://lpd.court.gov.ua/legal-position/13915",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13916,
+    "url": "https://lpd.court.gov.ua/legal-position/13916",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13917,
+    "url": "https://lpd.court.gov.ua/legal-position/13917",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13918,
+    "url": "https://lpd.court.gov.ua/legal-position/13918",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13919,
+    "url": "https://lpd.court.gov.ua/legal-position/13919",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13920,
+    "url": "https://lpd.court.gov.ua/legal-position/13920",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13921,
+    "url": "https://lpd.court.gov.ua/legal-position/13921",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13922,
+    "url": "https://lpd.court.gov.ua/legal-position/13922",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13923,
+    "url": "https://lpd.court.gov.ua/legal-position/13923",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13924,
+    "url": "https://lpd.court.gov.ua/legal-position/13924",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13925,
+    "url": "https://lpd.court.gov.ua/legal-position/13925",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13926,
+    "url": "https://lpd.court.gov.ua/legal-position/13926",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13927,
+    "url": "https://lpd.court.gov.ua/legal-position/13927",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13928,
+    "url": "https://lpd.court.gov.ua/legal-position/13928",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13929,
+    "url": "https://lpd.court.gov.ua/legal-position/13929",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13930,
+    "url": "https://lpd.court.gov.ua/legal-position/13930",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13931,
+    "url": "https://lpd.court.gov.ua/legal-position/13931",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13932,
+    "url": "https://lpd.court.gov.ua/legal-position/13932",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13933,
+    "url": "https://lpd.court.gov.ua/legal-position/13933",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13934,
+    "url": "https://lpd.court.gov.ua/legal-position/13934",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13935,
+    "url": "https://lpd.court.gov.ua/legal-position/13935",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13936,
+    "url": "https://lpd.court.gov.ua/legal-position/13936",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13937,
+    "url": "https://lpd.court.gov.ua/legal-position/13937",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13938,
+    "url": "https://lpd.court.gov.ua/legal-position/13938",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13939,
+    "url": "https://lpd.court.gov.ua/legal-position/13939",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13940,
+    "url": "https://lpd.court.gov.ua/legal-position/13940",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13941,
+    "url": "https://lpd.court.gov.ua/legal-position/13941",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13942,
+    "url": "https://lpd.court.gov.ua/legal-position/13942",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13943,
+    "url": "https://lpd.court.gov.ua/legal-position/13943",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13944,
+    "url": "https://lpd.court.gov.ua/legal-position/13944",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13945,
+    "url": "https://lpd.court.gov.ua/legal-position/13945",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13946,
+    "url": "https://lpd.court.gov.ua/legal-position/13946",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13947,
+    "url": "https://lpd.court.gov.ua/legal-position/13947",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13948,
+    "url": "https://lpd.court.gov.ua/legal-position/13948",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13949,
+    "url": "https://lpd.court.gov.ua/legal-position/13949",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13950,
+    "url": "https://lpd.court.gov.ua/legal-position/13950",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13951,
+    "url": "https://lpd.court.gov.ua/legal-position/13951",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13952,
+    "url": "https://lpd.court.gov.ua/legal-position/13952",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13953,
+    "url": "https://lpd.court.gov.ua/legal-position/13953",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13954,
+    "url": "https://lpd.court.gov.ua/legal-position/13954",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13955,
+    "url": "https://lpd.court.gov.ua/legal-position/13955",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13956,
+    "url": "https://lpd.court.gov.ua/legal-position/13956",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13957,
+    "url": "https://lpd.court.gov.ua/legal-position/13957",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13958,
+    "url": "https://lpd.court.gov.ua/legal-position/13958",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13959,
+    "url": "https://lpd.court.gov.ua/legal-position/13959",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13960,
+    "url": "https://lpd.court.gov.ua/legal-position/13960",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13961,
+    "url": "https://lpd.court.gov.ua/legal-position/13961",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13962,
+    "url": "https://lpd.court.gov.ua/legal-position/13962",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13963,
+    "url": "https://lpd.court.gov.ua/legal-position/13963",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13964,
+    "url": "https://lpd.court.gov.ua/legal-position/13964",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13965,
+    "url": "https://lpd.court.gov.ua/legal-position/13965",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13966,
+    "url": "https://lpd.court.gov.ua/legal-position/13966",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13967,
+    "url": "https://lpd.court.gov.ua/legal-position/13967",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13968,
+    "url": "https://lpd.court.gov.ua/legal-position/13968",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13969,
+    "url": "https://lpd.court.gov.ua/legal-position/13969",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13970,
+    "url": "https://lpd.court.gov.ua/legal-position/13970",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13971,
+    "url": "https://lpd.court.gov.ua/legal-position/13971",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13972,
+    "url": "https://lpd.court.gov.ua/legal-position/13972",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13973,
+    "url": "https://lpd.court.gov.ua/legal-position/13973",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13974,
+    "url": "https://lpd.court.gov.ua/legal-position/13974",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13975,
+    "url": "https://lpd.court.gov.ua/legal-position/13975",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13976,
+    "url": "https://lpd.court.gov.ua/legal-position/13976",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13977,
+    "url": "https://lpd.court.gov.ua/legal-position/13977",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13978,
+    "url": "https://lpd.court.gov.ua/legal-position/13978",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13979,
+    "url": "https://lpd.court.gov.ua/legal-position/13979",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13980,
+    "url": "https://lpd.court.gov.ua/legal-position/13980",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13981,
+    "url": "https://lpd.court.gov.ua/legal-position/13981",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13982,
+    "url": "https://lpd.court.gov.ua/legal-position/13982",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13983,
+    "url": "https://lpd.court.gov.ua/legal-position/13983",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13984,
+    "url": "https://lpd.court.gov.ua/legal-position/13984",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13985,
+    "url": "https://lpd.court.gov.ua/legal-position/13985",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13986,
+    "url": "https://lpd.court.gov.ua/legal-position/13986",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13987,
+    "url": "https://lpd.court.gov.ua/legal-position/13987",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13988,
+    "url": "https://lpd.court.gov.ua/legal-position/13988",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13989,
+    "url": "https://lpd.court.gov.ua/legal-position/13989",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13990,
+    "url": "https://lpd.court.gov.ua/legal-position/13990",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13991,
+    "url": "https://lpd.court.gov.ua/legal-position/13991",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13992,
+    "url": "https://lpd.court.gov.ua/legal-position/13992",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13993,
+    "url": "https://lpd.court.gov.ua/legal-position/13993",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13994,
+    "url": "https://lpd.court.gov.ua/legal-position/13994",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13995,
+    "url": "https://lpd.court.gov.ua/legal-position/13995",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13996,
+    "url": "https://lpd.court.gov.ua/legal-position/13996",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13997,
+    "url": "https://lpd.court.gov.ua/legal-position/13997",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13998,
+    "url": "https://lpd.court.gov.ua/legal-position/13998",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 13999,
+    "url": "https://lpd.court.gov.ua/legal-position/13999",
+    "status": "not_found",
+    "docIds": []
+  },
+  {
+    "posId": 14000,
+    "url": "https://lpd.court.gov.ua/legal-position/14000",
+    "status": "not_found",
+    "docIds": []
   }
 ]
