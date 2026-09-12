@@ -36,18 +36,6 @@
     ]
   },
   {
-    "posId": 13504,
-    "docId": 51851,
-    "url": "https://lpd.court.gov.ua/legal-position/13504/document/51851",
-    "status": "ok",
-    "links": [
-      {
-        "href": "https://reyestr.court.gov.ua/Review/85174055",
-        "text": ""
-      }
-    ]
-  },
-  {
     "posId": 13505,
     "docId": 51855,
     "url": "https://lpd.court.gov.ua/legal-position/13505/document/51855",
@@ -60,13 +48,13 @@
     ]
   },
   {
-    "posId": 13506,
-    "docId": 51858,
-    "url": "https://lpd.court.gov.ua/legal-position/13506/document/51858",
+    "posId": 13507,
+    "docId": 51859,
+    "url": "https://lpd.court.gov.ua/legal-position/13507/document/51859",
     "status": "ok",
     "links": [
       {
-        "href": "https://reyestr.court.gov.ua/Review/87334250",
+        "href": "https://reyestr.court.gov.ua/Review/103133048",
         "text": ""
       }
     ]
@@ -96,6 +84,30 @@
     ]
   },
   {
+    "posId": 13510,
+    "docId": 51864,
+    "url": "https://lpd.court.gov.ua/legal-position/13510/document/51864",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/103858697",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13512,
+    "docId": 51872,
+    "url": "https://lpd.court.gov.ua/legal-position/13512/document/51872",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/103893126",
+        "text": ""
+      }
+    ]
+  },
+  {
     "posId": 13513,
     "docId": 51868,
     "url": "https://lpd.court.gov.ua/legal-position/13513/document/51868",
@@ -115,6 +127,54 @@
     "links": [
       {
         "href": "https://reyestr.court.gov.ua/Review/85174050",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13518,
+    "docId": 51885,
+    "url": "https://lpd.court.gov.ua/legal-position/13518/document/51885",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/105423462",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13519,
+    "docId": 51887,
+    "url": "https://lpd.court.gov.ua/legal-position/13519/document/51887",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/119776606",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13520,
+    "docId": 51890,
+    "url": "https://lpd.court.gov.ua/legal-position/13520/document/51890",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/104728586",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13521,
+    "docId": 51898,
+    "url": "https://lpd.court.gov.ua/legal-position/13521/document/51898",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/105624100",
         "text": ""
       }
     ]
@@ -315,13 +375,9 @@
     "posId": 13550,
     "docId": 51947,
     "url": "https://lpd.court.gov.ua/legal-position/13550/document/51947",
-    "status": "ok",
-    "links": [
-      {
-        "href": "https://reyestr.court.gov.ua/Review/133764528",
-        "text": ""
-      }
-    ]
+    "status": "error",
+    "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://lpd.court.gov.ua/legal-position/13550/document/51947\", waiting until \"networkidle\"\u001b[22m\n",
+    "links": []
   },
   {
     "posId": 13551,
@@ -391,6 +447,18 @@
     "links": [
       {
         "href": "https://reyestr.court.gov.ua/Review/133348379",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13561,
+    "docId": 53489,
+    "url": "https://lpd.court.gov.ua/legal-position/13561/document/53489",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/100523242",
         "text": ""
       }
     ]
@@ -480,30 +548,6 @@
     ]
   },
   {
-    "posId": 13575,
-    "docId": 51994,
-    "url": "https://lpd.court.gov.ua/legal-position/13575/document/51994",
-    "status": "ok",
-    "links": [
-      {
-        "href": "https://reyestr.court.gov.ua/Review/134266384",
-        "text": ""
-      }
-    ]
-  },
-  {
-    "posId": 13576,
-    "docId": 51996,
-    "url": "https://lpd.court.gov.ua/legal-position/13576/document/51996",
-    "status": "ok",
-    "links": [
-      {
-        "href": "https://reyestr.court.gov.ua/Review/134322847",
-        "text": ""
-      }
-    ]
-  },
-  {
     "posId": 13577,
     "docId": 51997,
     "url": "https://lpd.court.gov.ua/legal-position/13577/document/51997",
@@ -517,24 +561,12 @@
   },
   {
     "posId": 13578,
-    "docId": 51998,
-    "url": "https://lpd.court.gov.ua/legal-position/13578/document/51998",
+    "docId": 52874,
+    "url": "https://lpd.court.gov.ua/legal-position/13578/document/52874",
     "status": "ok",
     "links": [
       {
         "href": "https://reyestr.court.gov.ua/Review/134197143",
-        "text": ""
-      }
-    ]
-  },
-  {
-    "posId": 13579,
-    "docId": 51999,
-    "url": "https://lpd.court.gov.ua/legal-position/13579/document/51999",
-    "status": "ok",
-    "links": [
-      {
-        "href": "https://reyestr.court.gov.ua/Review/134322866",
         "text": ""
       }
     ]
@@ -552,6 +584,18 @@
     ]
   },
   {
+    "posId": 13579,
+    "docId": 53607,
+    "url": "https://lpd.court.gov.ua/legal-position/13579/document/53607",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/136697392",
+        "text": ""
+      }
+    ]
+  },
+  {
     "posId": 13580,
     "docId": 52012,
     "url": "https://lpd.court.gov.ua/legal-position/13580/document/52012",
@@ -559,18 +603,6 @@
     "links": [
       {
         "href": "https://reyestr.court.gov.ua/Review/134367816",
-        "text": ""
-      }
-    ]
-  },
-  {
-    "posId": 13581,
-    "docId": 52013,
-    "url": "https://lpd.court.gov.ua/legal-position/13581/document/52013",
-    "status": "ok",
-    "links": [
-      {
-        "href": "https://reyestr.court.gov.ua/Review/101873632",
         "text": ""
       }
     ]
@@ -720,13 +752,61 @@
     ]
   },
   {
-    "posId": 13598,
-    "docId": 52052,
-    "url": "https://lpd.court.gov.ua/legal-position/13598/document/52052",
+    "posId": 13593,
+    "docId": 49535,
+    "url": "https://lpd.court.gov.ua/legal-position/13593/document/49535",
     "status": "ok",
     "links": [
       {
-        "href": "https://reyestr.court.gov.ua/Review/131941482",
+        "href": "https://reyestr.court.gov.ua/Review/83876275",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13594,
+    "docId": 29342,
+    "url": "https://lpd.court.gov.ua/legal-position/13594/document/29342",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/111552004",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13595,
+    "docId": 9420,
+    "url": "https://lpd.court.gov.ua/legal-position/13595/document/9420",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/106329801",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13596,
+    "docId": 49503,
+    "url": "https://lpd.court.gov.ua/legal-position/13596/document/49503",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/126500957",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13597,
+    "docId": 49547,
+    "url": "https://lpd.court.gov.ua/legal-position/13597/document/49547",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/99474156",
         "text": ""
       }
     ]
@@ -744,13 +824,25 @@
     ]
   },
   {
-    "posId": 13600,
-    "docId": 52072,
-    "url": "https://lpd.court.gov.ua/legal-position/13600/document/52072",
+    "posId": 13601,
+    "docId": 49519,
+    "url": "https://lpd.court.gov.ua/legal-position/13601/document/49519",
     "status": "ok",
     "links": [
       {
-        "href": "https://reyestr.court.gov.ua/Review/130409687",
+        "href": "https://reyestr.court.gov.ua/Review/121660608",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13602,
+    "docId": 51650,
+    "url": "https://lpd.court.gov.ua/legal-position/13602/document/51650",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133588633",
         "text": ""
       }
     ]
@@ -841,8 +933,8 @@
   },
   {
     "posId": 13610,
-    "docId": 51660,
-    "url": "https://lpd.court.gov.ua/legal-position/13610/document/51660",
+    "docId": 52877,
+    "url": "https://lpd.court.gov.ua/legal-position/13610/document/52877",
     "status": "ok",
     "links": [
       {
@@ -876,25 +968,57 @@
     ]
   },
   {
-    "posId": 13618,
-    "docId": 52106,
-    "url": "https://lpd.court.gov.ua/legal-position/13618/document/52106",
+    "posId": 13619,
+    "docId": 52873,
+    "url": "https://lpd.court.gov.ua/legal-position/13619/document/52873",
+    "status": "error",
+    "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://lpd.court.gov.ua/legal-position/13619/document/52873\", waiting until \"networkidle\"\u001b[22m\n",
+    "links": []
+  },
+  {
+    "posId": 13620,
+    "docId": 44824,
+    "url": "https://lpd.court.gov.ua/legal-position/13620/document/44824",
     "status": "ok",
     "links": [
       {
-        "href": "https://reyestr.court.gov.ua/Review/134456257",
+        "href": "https://reyestr.court.gov.ua/Review/124754858",
         "text": ""
       }
     ]
   },
   {
-    "posId": 13619,
-    "docId": 52107,
-    "url": "https://lpd.court.gov.ua/legal-position/13619/document/52107",
+    "posId": 13621,
+    "docId": 52112,
+    "url": "https://lpd.court.gov.ua/legal-position/13621/document/52112",
     "status": "ok",
     "links": [
       {
-        "href": "https://reyestr.court.gov.ua/Review/134456250",
+        "href": "https://reyestr.court.gov.ua/Review/103906856",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13622,
+    "docId": 52113,
+    "url": "https://lpd.court.gov.ua/legal-position/13622/document/52113",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/95139644",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13623,
+    "docId": 52114,
+    "url": "https://lpd.court.gov.ua/legal-position/13623/document/52114",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/117105881",
         "text": ""
       }
     ]
@@ -912,18 +1036,6 @@
     ]
   },
   {
-    "posId": 13625,
-    "docId": 52134,
-    "url": "https://lpd.court.gov.ua/legal-position/13625/document/52134",
-    "status": "ok",
-    "links": [
-      {
-        "href": "https://reyestr.court.gov.ua/Review/121295629",
-        "text": ""
-      }
-    ]
-  },
-  {
     "posId": 13626,
     "docId": 52135,
     "url": "https://lpd.court.gov.ua/legal-position/13626/document/52135",
@@ -931,6 +1043,18 @@
     "links": [
       {
         "href": "https://reyestr.court.gov.ua/Review/130922831",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13627,
+    "docId": 9420,
+    "url": "https://lpd.court.gov.ua/legal-position/13627/document/9420",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/106329801",
         "text": ""
       }
     ]
@@ -984,13 +1108,45 @@
     ]
   },
   {
-    "posId": 13631,
-    "docId": 52148,
-    "url": "https://lpd.court.gov.ua/legal-position/13631/document/52148",
+    "posId": 13632,
+    "docId": 49547,
+    "url": "https://lpd.court.gov.ua/legal-position/13632/document/49547",
     "status": "ok",
     "links": [
       {
-        "href": "https://reyestr.court.gov.ua/Review/134590669",
+        "href": "https://reyestr.court.gov.ua/Review/99474156",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13633,
+    "docId": 52156,
+    "url": "https://lpd.court.gov.ua/legal-position/13633/document/52156",
+    "status": "error",
+    "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://lpd.court.gov.ua/legal-position/13633/document/52156\", waiting until \"networkidle\"\u001b[22m\n",
+    "links": []
+  },
+  {
+    "posId": 13634,
+    "docId": 52157,
+    "url": "https://lpd.court.gov.ua/legal-position/13634/document/52157",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133348369",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13635,
+    "docId": 52158,
+    "url": "https://lpd.court.gov.ua/legal-position/13635/document/52158",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133448195",
         "text": ""
       }
     ]
@@ -1008,6 +1164,114 @@
     ]
   },
   {
+    "posId": 13646,
+    "docId": 52180,
+    "url": "https://lpd.court.gov.ua/legal-position/13646/document/52180",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133908565",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13648,
+    "docId": 51921,
+    "url": "https://lpd.court.gov.ua/legal-position/13648/document/51921",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134265680",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13653,
+    "docId": 52194,
+    "url": "https://lpd.court.gov.ua/legal-position/13653/document/52194",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134748816",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13655,
+    "docId": 33451,
+    "url": "https://lpd.court.gov.ua/legal-position/13655/document/33451",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/113063820",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13655,
+    "docId": 47945,
+    "url": "https://lpd.court.gov.ua/legal-position/13655/document/47945",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/102736044",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13655,
+    "docId": 52202,
+    "url": "https://lpd.court.gov.ua/legal-position/13655/document/52202",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/122319140",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13656,
+    "docId": 24942,
+    "url": "https://lpd.court.gov.ua/legal-position/13656/document/24942",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/110205546",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13656,
+    "docId": 52203,
+    "url": "https://lpd.court.gov.ua/legal-position/13656/document/52203",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/99037100",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13657,
+    "docId": 52204,
+    "url": "https://lpd.court.gov.ua/legal-position/13657/document/52204",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/79527458",
+        "text": ""
+      }
+    ]
+  },
+  {
     "posId": 13663,
     "docId": 51570,
     "url": "https://lpd.court.gov.ua/legal-position/13663/document/51570",
@@ -1020,9 +1284,117 @@
     ]
   },
   {
+    "posId": 13665,
+    "docId": 52220,
+    "url": "https://lpd.court.gov.ua/legal-position/13665/document/52220",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134661774",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13666,
+    "docId": 52221,
+    "url": "https://lpd.court.gov.ua/legal-position/13666/document/52221",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134813642",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13667,
+    "docId": 52222,
+    "url": "https://lpd.court.gov.ua/legal-position/13667/document/52222",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134661782",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13667,
+    "docId": 52223,
+    "url": "https://lpd.court.gov.ua/legal-position/13667/document/52223",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129537716",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13669,
+    "docId": 32977,
+    "url": "https://lpd.court.gov.ua/legal-position/13669/document/32977",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/112484301",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13670,
+    "docId": 52225,
+    "url": "https://lpd.court.gov.ua/legal-position/13670/document/52225",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/120770496",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13671,
+    "docId": 16532,
+    "url": "https://lpd.court.gov.ua/legal-position/13671/document/16532",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/108025267",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13671,
+    "docId": 52226,
+    "url": "https://lpd.court.gov.ua/legal-position/13671/document/52226",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/88386312",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13671,
+    "docId": 52227,
+    "url": "https://lpd.court.gov.ua/legal-position/13671/document/52227",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/90057584",
+        "text": ""
+      }
+    ]
+  },
+  {
     "posId": 13672,
-    "docId": 52228,
-    "url": "https://lpd.court.gov.ua/legal-position/13672/document/52228",
+    "docId": 53959,
+    "url": "https://lpd.court.gov.ua/legal-position/13672/document/53959",
     "status": "ok",
     "links": [
       {
@@ -1032,21 +1404,9 @@
     ]
   },
   {
-    "posId": 13673,
-    "docId": 52230,
-    "url": "https://lpd.court.gov.ua/legal-position/13673/document/52230",
-    "status": "ok",
-    "links": [
-      {
-        "href": "https://reyestr.court.gov.ua/Review/134688174",
-        "text": ""
-      }
-    ]
-  },
-  {
     "posId": 13674,
-    "docId": 52232,
-    "url": "https://lpd.court.gov.ua/legal-position/13674/document/52232",
+    "docId": 53949,
+    "url": "https://lpd.court.gov.ua/legal-position/13674/document/53949",
     "status": "ok",
     "links": [
       {
@@ -1057,8 +1417,8 @@
   },
   {
     "posId": 13675,
-    "docId": 52233,
-    "url": "https://lpd.court.gov.ua/legal-position/13675/document/52233",
+    "docId": 53963,
+    "url": "https://lpd.court.gov.ua/legal-position/13675/document/53963",
     "status": "ok",
     "links": [
       {
@@ -1087,6 +1447,3522 @@
     "links": [
       {
         "href": "https://reyestr.court.gov.ua/Review/134423667",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13678,
+    "docId": 52236,
+    "url": "https://lpd.court.gov.ua/legal-position/13678/document/52236",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/123469086",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13681,
+    "docId": 52242,
+    "url": "https://lpd.court.gov.ua/legal-position/13681/document/52242",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134790141",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13682,
+    "docId": 52243,
+    "url": "https://lpd.court.gov.ua/legal-position/13682/document/52243",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134661961",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13683,
+    "docId": 52242,
+    "url": "https://lpd.court.gov.ua/legal-position/13683/document/52242",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134790141",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13685,
+    "docId": 52244,
+    "url": "https://lpd.court.gov.ua/legal-position/13685/document/52244",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134748693",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13702,
+    "docId": 52267,
+    "url": "https://lpd.court.gov.ua/legal-position/13702/document/52267",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/77375585",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13702,
+    "docId": 52268,
+    "url": "https://lpd.court.gov.ua/legal-position/13702/document/52268",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/84229139",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13702,
+    "docId": 52269,
+    "url": "https://lpd.court.gov.ua/legal-position/13702/document/52269",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/78985981",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13702,
+    "docId": 52270,
+    "url": "https://lpd.court.gov.ua/legal-position/13702/document/52270",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/89352959",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13702,
+    "docId": 52271,
+    "url": "https://lpd.court.gov.ua/legal-position/13702/document/52271",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129563475",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13704,
+    "docId": 52272,
+    "url": "https://lpd.court.gov.ua/legal-position/13704/document/52272",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/89928659",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13704,
+    "docId": 52273,
+    "url": "https://lpd.court.gov.ua/legal-position/13704/document/52273",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129676681",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13704,
+    "docId": 52274,
+    "url": "https://lpd.court.gov.ua/legal-position/13704/document/52274",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/104282852",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13706,
+    "docId": 45835,
+    "url": "https://lpd.court.gov.ua/legal-position/13706/document/45835",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/125312771",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13706,
+    "docId": 52275,
+    "url": "https://lpd.court.gov.ua/legal-position/13706/document/52275",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/123658882",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13706,
+    "docId": 52276,
+    "url": "https://lpd.court.gov.ua/legal-position/13706/document/52276",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129510309",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13707,
+    "docId": 52277,
+    "url": "https://lpd.court.gov.ua/legal-position/13707/document/52277",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129844403",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13708,
+    "docId": 52278,
+    "url": "https://lpd.court.gov.ua/legal-position/13708/document/52278",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129510438",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13709,
+    "docId": 52279,
+    "url": "https://lpd.court.gov.ua/legal-position/13709/document/52279",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133656391",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13710,
+    "docId": 51870,
+    "url": "https://lpd.court.gov.ua/legal-position/13710/document/51870",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133475372",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13711,
+    "docId": 52281,
+    "url": "https://lpd.court.gov.ua/legal-position/13711/document/52281",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133750304",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13712,
+    "docId": 52282,
+    "url": "https://lpd.court.gov.ua/legal-position/13712/document/52282",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133719570",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13714,
+    "docId": 52289,
+    "url": "https://lpd.court.gov.ua/legal-position/13714/document/52289",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133349169",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13715,
+    "docId": 52290,
+    "url": "https://lpd.court.gov.ua/legal-position/13715/document/52290",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133421601",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13716,
+    "docId": 52291,
+    "url": "https://lpd.court.gov.ua/legal-position/13716/document/52291",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133719636",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13717,
+    "docId": 52292,
+    "url": "https://lpd.court.gov.ua/legal-position/13717/document/52292",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133719639",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13718,
+    "docId": 52293,
+    "url": "https://lpd.court.gov.ua/legal-position/13718/document/52293",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133828713",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13719,
+    "docId": 52294,
+    "url": "https://lpd.court.gov.ua/legal-position/13719/document/52294",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/122272945",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13719,
+    "docId": 52295,
+    "url": "https://lpd.court.gov.ua/legal-position/13719/document/52295",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/128300501",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13722,
+    "docId": 53969,
+    "url": "https://lpd.court.gov.ua/legal-position/13722/document/53969",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134766147",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13724,
+    "docId": 53945,
+    "url": "https://lpd.court.gov.ua/legal-position/13724/document/53945",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134880982",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13726,
+    "docId": 52280,
+    "url": "https://lpd.court.gov.ua/legal-position/13726/document/52280",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133579181",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13744,
+    "docId": 52871,
+    "url": "https://lpd.court.gov.ua/legal-position/13744/document/52871",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134159862",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13745,
+    "docId": 53953,
+    "url": "https://lpd.court.gov.ua/legal-position/13745/document/53953",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133947141",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13746,
+    "docId": 52870,
+    "url": "https://lpd.court.gov.ua/legal-position/13746/document/52870",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134322848",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13747,
+    "docId": 52869,
+    "url": "https://lpd.court.gov.ua/legal-position/13747/document/52869",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134540323",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13748,
+    "docId": 52868,
+    "url": "https://lpd.court.gov.ua/legal-position/13748/document/52868",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134041092",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13749,
+    "docId": 52867,
+    "url": "https://lpd.court.gov.ua/legal-position/13749/document/52867",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134159927",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13750,
+    "docId": 52349,
+    "url": "https://lpd.court.gov.ua/legal-position/13750/document/52349",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132237730",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13751,
+    "docId": 52352,
+    "url": "https://lpd.court.gov.ua/legal-position/13751/document/52352",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/117718208",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13752,
+    "docId": 52358,
+    "url": "https://lpd.court.gov.ua/legal-position/13752/document/52358",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/123410495",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13753,
+    "docId": 52361,
+    "url": "https://lpd.court.gov.ua/legal-position/13753/document/52361",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/120150582",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13754,
+    "docId": 52323,
+    "url": "https://lpd.court.gov.ua/legal-position/13754/document/52323",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134908141",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13755,
+    "docId": 52373,
+    "url": "https://lpd.court.gov.ua/legal-position/13755/document/52373",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134979292",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13756,
+    "docId": 52374,
+    "url": "https://lpd.court.gov.ua/legal-position/13756/document/52374",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134979678",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13760,
+    "docId": 52380,
+    "url": "https://lpd.court.gov.ua/legal-position/13760/document/52380",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134979746",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13762,
+    "docId": 52382,
+    "url": "https://lpd.court.gov.ua/legal-position/13762/document/52382",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135028399",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13763,
+    "docId": 52383,
+    "url": "https://lpd.court.gov.ua/legal-position/13763/document/52383",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134979717",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13765,
+    "docId": 52384,
+    "url": "https://lpd.court.gov.ua/legal-position/13765/document/52384",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134979602",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13767,
+    "docId": 52032,
+    "url": "https://lpd.court.gov.ua/legal-position/13767/document/52032",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133782451",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13768,
+    "docId": 51963,
+    "url": "https://lpd.court.gov.ua/legal-position/13768/document/51963",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134234457",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13769,
+    "docId": 52399,
+    "url": "https://lpd.court.gov.ua/legal-position/13769/document/52399",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129420869",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13770,
+    "docId": 52400,
+    "url": "https://lpd.court.gov.ua/legal-position/13770/document/52400",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129537678",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13771,
+    "docId": 52401,
+    "url": "https://lpd.court.gov.ua/legal-position/13771/document/52401",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129676690",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13772,
+    "docId": 52402,
+    "url": "https://lpd.court.gov.ua/legal-position/13772/document/52402",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129819000",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13773,
+    "docId": 44895,
+    "url": "https://lpd.court.gov.ua/legal-position/13773/document/44895",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/125656549",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13774,
+    "docId": 52403,
+    "url": "https://lpd.court.gov.ua/legal-position/13774/document/52403",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134017738",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13775,
+    "docId": 52404,
+    "url": "https://lpd.court.gov.ua/legal-position/13775/document/52404",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/125932922",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13776,
+    "docId": 52405,
+    "url": "https://lpd.court.gov.ua/legal-position/13776/document/52405",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/125933033",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13777,
+    "docId": 51911,
+    "url": "https://lpd.court.gov.ua/legal-position/13777/document/51911",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134196917",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13778,
+    "docId": 46342,
+    "url": "https://lpd.court.gov.ua/legal-position/13778/document/46342",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/126136681",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13779,
+    "docId": 52199,
+    "url": "https://lpd.court.gov.ua/legal-position/13779/document/52199",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134307952",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13780,
+    "docId": 51844,
+    "url": "https://lpd.court.gov.ua/legal-position/13780/document/51844",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134234444",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13781,
+    "docId": 52407,
+    "url": "https://lpd.court.gov.ua/legal-position/13781/document/52407",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133947007",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13782,
+    "docId": 52441,
+    "url": "https://lpd.court.gov.ua/legal-position/13782/document/52441",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133509793",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13783,
+    "docId": 52442,
+    "url": "https://lpd.court.gov.ua/legal-position/13783/document/52442",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133579188",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13784,
+    "docId": 52443,
+    "url": "https://lpd.court.gov.ua/legal-position/13784/document/52443",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133475355",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13785,
+    "docId": 52289,
+    "url": "https://lpd.court.gov.ua/legal-position/13785/document/52289",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133349169",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13786,
+    "docId": 52466,
+    "url": "https://lpd.court.gov.ua/legal-position/13786/document/52466",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133656432",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13787,
+    "docId": 52467,
+    "url": "https://lpd.court.gov.ua/legal-position/13787/document/52467",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133509757",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13788,
+    "docId": 52468,
+    "url": "https://lpd.court.gov.ua/legal-position/13788/document/52468",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133600311",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13789,
+    "docId": 52485,
+    "url": "https://lpd.court.gov.ua/legal-position/13789/document/52485",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134909350",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13790,
+    "docId": 3091,
+    "url": "https://lpd.court.gov.ua/legal-position/13790/document/3091",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/85902333",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13790,
+    "docId": 52487,
+    "url": "https://lpd.court.gov.ua/legal-position/13790/document/52487",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134945311",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13791,
+    "docId": 52489,
+    "url": "https://lpd.court.gov.ua/legal-position/13791/document/52489",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135028387",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13792,
+    "docId": 52491,
+    "url": "https://lpd.court.gov.ua/legal-position/13792/document/52491",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135066217",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13793,
+    "docId": 52493,
+    "url": "https://lpd.court.gov.ua/legal-position/13793/document/52493",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135111428",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13794,
+    "docId": 52495,
+    "url": "https://lpd.court.gov.ua/legal-position/13794/document/52495",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135218338",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13794,
+    "docId": 52496,
+    "url": "https://lpd.court.gov.ua/legal-position/13794/document/52496",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/81215457",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13796,
+    "docId": 52497,
+    "url": "https://lpd.court.gov.ua/legal-position/13796/document/52497",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135177865",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13797,
+    "docId": 52498,
+    "url": "https://lpd.court.gov.ua/legal-position/13797/document/52498",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134979419",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13798,
+    "docId": 52499,
+    "url": "https://lpd.court.gov.ua/legal-position/13798/document/52499",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134979640",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13799,
+    "docId": 52495,
+    "url": "https://lpd.court.gov.ua/legal-position/13799/document/52495",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135218338",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13800,
+    "docId": 53958,
+    "url": "https://lpd.court.gov.ua/legal-position/13800/document/53958",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134921408",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13801,
+    "docId": 53947,
+    "url": "https://lpd.court.gov.ua/legal-position/13801/document/53947",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135044325",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13803,
+    "docId": 53943,
+    "url": "https://lpd.court.gov.ua/legal-position/13803/document/53943",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135044340",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13804,
+    "docId": 53940,
+    "url": "https://lpd.court.gov.ua/legal-position/13804/document/53940",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135044330",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13805,
+    "docId": 53937,
+    "url": "https://lpd.court.gov.ua/legal-position/13805/document/53937",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135124431",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13806,
+    "docId": 52207,
+    "url": "https://lpd.court.gov.ua/legal-position/13806/document/52207",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133719376",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13807,
+    "docId": 51912,
+    "url": "https://lpd.court.gov.ua/legal-position/13807/document/51912",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134196890",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13809,
+    "docId": 52541,
+    "url": "https://lpd.court.gov.ua/legal-position/13809/document/52541",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130129655",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13810,
+    "docId": 52542,
+    "url": "https://lpd.court.gov.ua/legal-position/13810/document/52542",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/88728738",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13810,
+    "docId": 52543,
+    "url": "https://lpd.court.gov.ua/legal-position/13810/document/52543",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/126534612",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13811,
+    "docId": 47050,
+    "url": "https://lpd.court.gov.ua/legal-position/13811/document/47050",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/126394467",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13811,
+    "docId": 52546,
+    "url": "https://lpd.court.gov.ua/legal-position/13811/document/52546",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/109395144",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13811,
+    "docId": 52547,
+    "url": "https://lpd.court.gov.ua/legal-position/13811/document/52547",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/117373712",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13811,
+    "docId": 52548,
+    "url": "https://lpd.court.gov.ua/legal-position/13811/document/52548",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/125589298",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13812,
+    "docId": 52549,
+    "url": "https://lpd.court.gov.ua/legal-position/13812/document/52549",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/82996815",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13812,
+    "docId": 52550,
+    "url": "https://lpd.court.gov.ua/legal-position/13812/document/52550",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/125825358",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13813,
+    "docId": 9188,
+    "url": "https://lpd.court.gov.ua/legal-position/13813/document/9188",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/106314973",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13813,
+    "docId": 46730,
+    "url": "https://lpd.court.gov.ua/legal-position/13813/document/46730",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/126003821",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13813,
+    "docId": 52551,
+    "url": "https://lpd.court.gov.ua/legal-position/13813/document/52551",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/78771501",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13814,
+    "docId": 52552,
+    "url": "https://lpd.court.gov.ua/legal-position/13814/document/52552",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/104165049",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13814,
+    "docId": 52553,
+    "url": "https://lpd.court.gov.ua/legal-position/13814/document/52553",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/126274656",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 32745,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/32745",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/112441874",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 43128,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/43128",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/116897319",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 44938,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/44938",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/125656334",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 52554,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/52554",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/101808712",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 53441,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/53441",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/117597924",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 53442,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/53442",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/117632920",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 53443,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/53443",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/118333556",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 53444,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/53444",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/118333530",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 53445,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/53445",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/118464627",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 53446,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/53446",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/118826812",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 53447,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/53447",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/119227650",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13815,
+    "docId": 53448,
+    "url": "https://lpd.court.gov.ua/legal-position/13815/document/53448",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133860386",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13816,
+    "docId": 52555,
+    "url": "https://lpd.court.gov.ua/legal-position/13816/document/52555",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133579193",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13817,
+    "docId": 52556,
+    "url": "https://lpd.court.gov.ua/legal-position/13817/document/52556",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132789558",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13818,
+    "docId": 52557,
+    "url": "https://lpd.court.gov.ua/legal-position/13818/document/52557",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133579203",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13819,
+    "docId": 52558,
+    "url": "https://lpd.court.gov.ua/legal-position/13819/document/52558",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133750301",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13820,
+    "docId": 52559,
+    "url": "https://lpd.court.gov.ua/legal-position/13820/document/52559",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133708886",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13821,
+    "docId": 52560,
+    "url": "https://lpd.court.gov.ua/legal-position/13821/document/52560",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133828710",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13822,
+    "docId": 52561,
+    "url": "https://lpd.court.gov.ua/legal-position/13822/document/52561",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133708879",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13823,
+    "docId": 52562,
+    "url": "https://lpd.court.gov.ua/legal-position/13823/document/52562",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133782728",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13824,
+    "docId": 52563,
+    "url": "https://lpd.court.gov.ua/legal-position/13824/document/52563",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133475377",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13825,
+    "docId": 52291,
+    "url": "https://lpd.court.gov.ua/legal-position/13825/document/52291",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133719636",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13826,
+    "docId": 52584,
+    "url": "https://lpd.court.gov.ua/legal-position/13826/document/52584",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/131648971",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13827,
+    "docId": 50410,
+    "url": "https://lpd.court.gov.ua/legal-position/13827/document/50410",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/131130798",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13828,
+    "docId": 52589,
+    "url": "https://lpd.court.gov.ua/legal-position/13828/document/52589",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/131941693",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13829,
+    "docId": 52592,
+    "url": "https://lpd.court.gov.ua/legal-position/13829/document/52592",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132746737",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13830,
+    "docId": 52592,
+    "url": "https://lpd.court.gov.ua/legal-position/13830/document/52592",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132746737",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13831,
+    "docId": 50557,
+    "url": "https://lpd.court.gov.ua/legal-position/13831/document/50557",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132556416",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13832,
+    "docId": 50557,
+    "url": "https://lpd.court.gov.ua/legal-position/13832/document/50557",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132556416",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13835,
+    "docId": 52600,
+    "url": "https://lpd.court.gov.ua/legal-position/13835/document/52600",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/131941691",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13836,
+    "docId": 52602,
+    "url": "https://lpd.court.gov.ua/legal-position/13836/document/52602",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132391394",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13837,
+    "docId": 52602,
+    "url": "https://lpd.court.gov.ua/legal-position/13837/document/52602",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132391394",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13838,
+    "docId": 51217,
+    "url": "https://lpd.court.gov.ua/legal-position/13838/document/51217",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132556417",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13839,
+    "docId": 52607,
+    "url": "https://lpd.court.gov.ua/legal-position/13839/document/52607",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/122869839",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13840,
+    "docId": 52138,
+    "url": "https://lpd.court.gov.ua/legal-position/13840/document/52138",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133983611",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13841,
+    "docId": 52138,
+    "url": "https://lpd.court.gov.ua/legal-position/13841/document/52138",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133983611",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13842,
+    "docId": 52630,
+    "url": "https://lpd.court.gov.ua/legal-position/13842/document/52630",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134124018",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13843,
+    "docId": 52630,
+    "url": "https://lpd.court.gov.ua/legal-position/13843/document/52630",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134124018",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13844,
+    "docId": 52630,
+    "url": "https://lpd.court.gov.ua/legal-position/13844/document/52630",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134124018",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13845,
+    "docId": 53934,
+    "url": "https://lpd.court.gov.ua/legal-position/13845/document/53934",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134579865",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13846,
+    "docId": 53962,
+    "url": "https://lpd.court.gov.ua/legal-position/13846/document/53962",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134880089",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13847,
+    "docId": 53950,
+    "url": "https://lpd.court.gov.ua/legal-position/13847/document/53950",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135156303",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13849,
+    "docId": 53939,
+    "url": "https://lpd.court.gov.ua/legal-position/13849/document/53939",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134879991",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13850,
+    "docId": 52642,
+    "url": "https://lpd.court.gov.ua/legal-position/13850/document/52642",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135376037",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13851,
+    "docId": 52645,
+    "url": "https://lpd.court.gov.ua/legal-position/13851/document/52645",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135376510",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13852,
+    "docId": 53938,
+    "url": "https://lpd.court.gov.ua/legal-position/13852/document/53938",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134688174",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13853,
+    "docId": 53965,
+    "url": "https://lpd.court.gov.ua/legal-position/13853/document/53965",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134540444",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13854,
+    "docId": 53964,
+    "url": "https://lpd.court.gov.ua/legal-position/13854/document/53964",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135386172",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13855,
+    "docId": 52647,
+    "url": "https://lpd.court.gov.ua/legal-position/13855/document/52647",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135376413",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13856,
+    "docId": 53936,
+    "url": "https://lpd.court.gov.ua/legal-position/13856/document/53936",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135082764",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13857,
+    "docId": 53935,
+    "url": "https://lpd.court.gov.ua/legal-position/13857/document/53935",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134540386",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13858,
+    "docId": 53952,
+    "url": "https://lpd.court.gov.ua/legal-position/13858/document/53952",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134647601",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13859,
+    "docId": 53926,
+    "url": "https://lpd.court.gov.ua/legal-position/13859/document/53926",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134833219",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13860,
+    "docId": 53937,
+    "url": "https://lpd.court.gov.ua/legal-position/13860/document/53937",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135124431",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13861,
+    "docId": 53928,
+    "url": "https://lpd.court.gov.ua/legal-position/13861/document/53928",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135189917",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13862,
+    "docId": 39873,
+    "url": "https://lpd.court.gov.ua/legal-position/13862/document/39873",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/114834888",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13864,
+    "docId": 52658,
+    "url": "https://lpd.court.gov.ua/legal-position/13864/document/52658",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130178463",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13865,
+    "docId": 52659,
+    "url": "https://lpd.court.gov.ua/legal-position/13865/document/52659",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/131264746",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13866,
+    "docId": 52660,
+    "url": "https://lpd.court.gov.ua/legal-position/13866/document/52660",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/131709947",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13867,
+    "docId": 52661,
+    "url": "https://lpd.court.gov.ua/legal-position/13867/document/52661",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130870564",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13868,
+    "docId": 51310,
+    "url": "https://lpd.court.gov.ua/legal-position/13868/document/51310",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130178653",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13869,
+    "docId": 52662,
+    "url": "https://lpd.court.gov.ua/legal-position/13869/document/52662",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/95469369",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13870,
+    "docId": 52544,
+    "url": "https://lpd.court.gov.ua/legal-position/13870/document/52544",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129344796",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13871,
+    "docId": 21674,
+    "url": "https://lpd.court.gov.ua/legal-position/13871/document/21674",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/109466007",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13871,
+    "docId": 24529,
+    "url": "https://lpd.court.gov.ua/legal-position/13871/document/24529",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/110080393",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13871,
+    "docId": 52663,
+    "url": "https://lpd.court.gov.ua/legal-position/13871/document/52663",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/113203798",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13871,
+    "docId": 53284,
+    "url": "https://lpd.court.gov.ua/legal-position/13871/document/53284",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/125495852",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13872,
+    "docId": 52664,
+    "url": "https://lpd.court.gov.ua/legal-position/13872/document/52664",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/96977419",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13872,
+    "docId": 52665,
+    "url": "https://lpd.court.gov.ua/legal-position/13872/document/52665",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/102854644",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13873,
+    "docId": 16532,
+    "url": "https://lpd.court.gov.ua/legal-position/13873/document/16532",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/108025267",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13874,
+    "docId": 52666,
+    "url": "https://lpd.court.gov.ua/legal-position/13874/document/52666",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/104167314",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13876,
+    "docId": 52668,
+    "url": "https://lpd.court.gov.ua/legal-position/13876/document/52668",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133421571",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13877,
+    "docId": 52669,
+    "url": "https://lpd.court.gov.ua/legal-position/13877/document/52669",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133719595",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13878,
+    "docId": 52560,
+    "url": "https://lpd.court.gov.ua/legal-position/13878/document/52560",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133828710",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13879,
+    "docId": 52670,
+    "url": "https://lpd.court.gov.ua/legal-position/13879/document/52670",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133656468",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13880,
+    "docId": 52560,
+    "url": "https://lpd.court.gov.ua/legal-position/13880/document/52560",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133828710",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13881,
+    "docId": 52560,
+    "url": "https://lpd.court.gov.ua/legal-position/13881/document/52560",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133828710",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13882,
+    "docId": 52292,
+    "url": "https://lpd.court.gov.ua/legal-position/13882/document/52292",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133719639",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13883,
+    "docId": 52672,
+    "url": "https://lpd.court.gov.ua/legal-position/13883/document/52672",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133656417",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13885,
+    "docId": 52675,
+    "url": "https://lpd.court.gov.ua/legal-position/13885/document/52675",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133421604",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13886,
+    "docId": 51149,
+    "url": "https://lpd.court.gov.ua/legal-position/13886/document/51149",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133212583",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13886,
+    "docId": 54156,
+    "url": "https://lpd.court.gov.ua/legal-position/13886/document/54156",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134921142",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13887,
+    "docId": 51149,
+    "url": "https://lpd.court.gov.ua/legal-position/13887/document/51149",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133212583",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13887,
+    "docId": 54156,
+    "url": "https://lpd.court.gov.ua/legal-position/13887/document/54156",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134921142",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13889,
+    "docId": 51149,
+    "url": "https://lpd.court.gov.ua/legal-position/13889/document/51149",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133212583",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13890,
+    "docId": 52702,
+    "url": "https://lpd.court.gov.ua/legal-position/13890/document/52702",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134266626",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13891,
+    "docId": 52702,
+    "url": "https://lpd.court.gov.ua/legal-position/13891/document/52702",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134266626",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13892,
+    "docId": 52702,
+    "url": "https://lpd.court.gov.ua/legal-position/13892/document/52702",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134266626",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13893,
+    "docId": 52702,
+    "url": "https://lpd.court.gov.ua/legal-position/13893/document/52702",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134266626",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13894,
+    "docId": 52705,
+    "url": "https://lpd.court.gov.ua/legal-position/13894/document/52705",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133908580",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13895,
+    "docId": 51877,
+    "url": "https://lpd.court.gov.ua/legal-position/13895/document/51877",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133708736",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13897,
+    "docId": 52709,
+    "url": "https://lpd.court.gov.ua/legal-position/13897/document/52709",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135376555",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13898,
+    "docId": 52708,
+    "url": "https://lpd.court.gov.ua/legal-position/13898/document/52708",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135376415",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13899,
+    "docId": 52707,
+    "url": "https://lpd.court.gov.ua/legal-position/13899/document/52707",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135416335",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13900,
+    "docId": 52457,
+    "url": "https://lpd.court.gov.ua/legal-position/13900/document/52457",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135044561",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13902,
+    "docId": 52710,
+    "url": "https://lpd.court.gov.ua/legal-position/13902/document/52710",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134833396",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13903,
+    "docId": 52469,
+    "url": "https://lpd.court.gov.ua/legal-position/13903/document/52469",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135083073",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13904,
+    "docId": 52716,
+    "url": "https://lpd.court.gov.ua/legal-position/13904/document/52716",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134456472",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13905,
+    "docId": 52717,
+    "url": "https://lpd.court.gov.ua/legal-position/13905/document/52717",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134456469",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13906,
+    "docId": 52719,
+    "url": "https://lpd.court.gov.ua/legal-position/13906/document/52719",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134456475",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13907,
+    "docId": 52479,
+    "url": "https://lpd.court.gov.ua/legal-position/13907/document/52479",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134802046",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13908,
+    "docId": 52816,
+    "url": "https://lpd.court.gov.ua/legal-position/13908/document/52816",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134833422",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13909,
+    "docId": 52451,
+    "url": "https://lpd.court.gov.ua/legal-position/13909/document/52451",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135044563",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13910,
+    "docId": 52731,
+    "url": "https://lpd.court.gov.ua/legal-position/13910/document/52731",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135528425",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13911,
+    "docId": 52731,
+    "url": "https://lpd.court.gov.ua/legal-position/13911/document/52731",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135528425",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13912,
+    "docId": 52732,
+    "url": "https://lpd.court.gov.ua/legal-position/13912/document/52732",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135566892",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13913,
+    "docId": 52451,
+    "url": "https://lpd.court.gov.ua/legal-position/13913/document/52451",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135044563",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13915,
+    "docId": 52736,
+    "url": "https://lpd.court.gov.ua/legal-position/13915/document/52736",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134688422",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13915,
+    "docId": 52974,
+    "url": "https://lpd.court.gov.ua/legal-position/13915/document/52974",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/127771732",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13916,
+    "docId": 52451,
+    "url": "https://lpd.court.gov.ua/legal-position/13916/document/52451",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135044563",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13917,
+    "docId": 52451,
+    "url": "https://lpd.court.gov.ua/legal-position/13917/document/52451",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135044563",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13918,
+    "docId": 52738,
+    "url": "https://lpd.court.gov.ua/legal-position/13918/document/52738",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134647902",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13918,
+    "docId": 53268,
+    "url": "https://lpd.court.gov.ua/legal-position/13918/document/53268",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135515634",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13920,
+    "docId": 40298,
+    "url": "https://lpd.court.gov.ua/legal-position/13920/document/40298",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/114972512",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13921,
+    "docId": 40298,
+    "url": "https://lpd.court.gov.ua/legal-position/13921/document/40298",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/114972512",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13922,
+    "docId": 53932,
+    "url": "https://lpd.court.gov.ua/legal-position/13922/document/53932",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135576904",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13923,
+    "docId": 53930,
+    "url": "https://lpd.court.gov.ua/legal-position/13923/document/53930",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135386244",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13924,
+    "docId": 53971,
+    "url": "https://lpd.court.gov.ua/legal-position/13924/document/53971",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135376916",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13925,
+    "docId": 53924,
+    "url": "https://lpd.court.gov.ua/legal-position/13925/document/53924",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135515557",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13927,
+    "docId": 47921,
+    "url": "https://lpd.court.gov.ua/legal-position/13927/document/47921",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/124484806",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13927,
+    "docId": 52773,
+    "url": "https://lpd.court.gov.ua/legal-position/13927/document/52773",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/102735717",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13927,
+    "docId": 52774,
+    "url": "https://lpd.court.gov.ua/legal-position/13927/document/52774",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/86503808",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13928,
+    "docId": 27417,
+    "url": "https://lpd.court.gov.ua/legal-position/13928/document/27417",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/110961961",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13928,
+    "docId": 50345,
+    "url": "https://lpd.court.gov.ua/legal-position/13928/document/50345",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/128775993",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13929,
+    "docId": 50345,
+    "url": "https://lpd.court.gov.ua/legal-position/13929/document/50345",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/128775993",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13929,
+    "docId": 53489,
+    "url": "https://lpd.court.gov.ua/legal-position/13929/document/53489",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/100523242",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13930,
+    "docId": 52775,
+    "url": "https://lpd.court.gov.ua/legal-position/13930/document/52775",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/101911915",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13931,
+    "docId": 31814,
+    "url": "https://lpd.court.gov.ua/legal-position/13931/document/31814",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/113335985",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13932,
+    "docId": 35751,
+    "url": "https://lpd.court.gov.ua/legal-position/13932/document/35751",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/113526869",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13932,
+    "docId": 39185,
+    "url": "https://lpd.court.gov.ua/legal-position/13932/document/39185",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/114678924",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13933,
+    "docId": 13166,
+    "url": "https://lpd.court.gov.ua/legal-position/13933/document/13166",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/107552488",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13933,
+    "docId": 31814,
+    "url": "https://lpd.court.gov.ua/legal-position/13933/document/31814",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/113335985",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13934,
+    "docId": 52778,
+    "url": "https://lpd.court.gov.ua/legal-position/13934/document/52778",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/100424348",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13934,
+    "docId": 52779,
+    "url": "https://lpd.court.gov.ua/legal-position/13934/document/52779",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/105324937",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13936,
+    "docId": 52809,
+    "url": "https://lpd.court.gov.ua/legal-position/13936/document/52809",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135567215",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13939,
+    "docId": 52812,
+    "url": "https://lpd.court.gov.ua/legal-position/13939/document/52812",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135567289",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13941,
+    "docId": 52818,
+    "url": "https://lpd.court.gov.ua/legal-position/13941/document/52818",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133947342",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13942,
+    "docId": 52819,
+    "url": "https://lpd.court.gov.ua/legal-position/13942/document/52819",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133909925",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13943,
+    "docId": 52820,
+    "url": "https://lpd.court.gov.ua/legal-position/13943/document/52820",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134085555",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13944,
+    "docId": 52821,
+    "url": "https://lpd.court.gov.ua/legal-position/13944/document/52821",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134197254",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13945,
+    "docId": 52822,
+    "url": "https://lpd.court.gov.ua/legal-position/13945/document/52822",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134323129",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13946,
+    "docId": 52823,
+    "url": "https://lpd.court.gov.ua/legal-position/13946/document/52823",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134160097",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13947,
+    "docId": 52824,
+    "url": "https://lpd.court.gov.ua/legal-position/13947/document/52824",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134323187",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13948,
+    "docId": 52825,
+    "url": "https://lpd.court.gov.ua/legal-position/13948/document/52825",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134323111",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13949,
+    "docId": 52826,
+    "url": "https://lpd.court.gov.ua/legal-position/13949/document/52826",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134124010",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13950,
+    "docId": 52827,
+    "url": "https://lpd.court.gov.ua/legal-position/13950/document/52827",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134499602",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13952,
+    "docId": 15808,
+    "url": "https://lpd.court.gov.ua/legal-position/13952/document/15808",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/107804710",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13953,
+    "docId": 52846,
+    "url": "https://lpd.court.gov.ua/legal-position/13953/document/52846",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/124662745",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13953,
+    "docId": 52852,
+    "url": "https://lpd.court.gov.ua/legal-position/13953/document/52852",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/131537441",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13954,
+    "docId": 52848,
+    "url": "https://lpd.court.gov.ua/legal-position/13954/document/52848",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135793908",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13956,
+    "docId": 52853,
+    "url": "https://lpd.court.gov.ua/legal-position/13956/document/52853",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/126328351",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13957,
+    "docId": 52854,
+    "url": "https://lpd.court.gov.ua/legal-position/13957/document/52854",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132431394",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13958,
+    "docId": 52855,
+    "url": "https://lpd.court.gov.ua/legal-position/13958/document/52855",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133650053",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13959,
+    "docId": 52856,
+    "url": "https://lpd.court.gov.ua/legal-position/13959/document/52856",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134880151",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13960,
+    "docId": 52857,
+    "url": "https://lpd.court.gov.ua/legal-position/13960/document/52857",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134322847",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13962,
+    "docId": 35747,
+    "url": "https://lpd.court.gov.ua/legal-position/13962/document/35747",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/113526884",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13963,
+    "docId": 42434,
+    "url": "https://lpd.court.gov.ua/legal-position/13963/document/42434",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/115821578",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13964,
+    "docId": 52881,
+    "url": "https://lpd.court.gov.ua/legal-position/13964/document/52881",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/102735995",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13965,
+    "docId": 39883,
+    "url": "https://lpd.court.gov.ua/legal-position/13965/document/39883",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/114834758",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13966,
+    "docId": 52882,
+    "url": "https://lpd.court.gov.ua/legal-position/13966/document/52882",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/101634143",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13969,
+    "docId": 52887,
+    "url": "https://lpd.court.gov.ua/legal-position/13969/document/52887",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/87682997",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13969,
+    "docId": 52888,
+    "url": "https://lpd.court.gov.ua/legal-position/13969/document/52888",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/120740361",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13971,
+    "docId": 45387,
+    "url": "https://lpd.court.gov.ua/legal-position/13971/document/45387",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/124847072",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13972,
+    "docId": 52901,
+    "url": "https://lpd.court.gov.ua/legal-position/13972/document/52901",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134123987",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13973,
+    "docId": 52902,
+    "url": "https://lpd.court.gov.ua/legal-position/13973/document/52902",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133909933",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13974,
+    "docId": 52903,
+    "url": "https://lpd.court.gov.ua/legal-position/13974/document/52903",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133750350",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13975,
+    "docId": 52904,
+    "url": "https://lpd.court.gov.ua/legal-position/13975/document/52904",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134346545",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13976,
+    "docId": 52905,
+    "url": "https://lpd.court.gov.ua/legal-position/13976/document/52905",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/134499586",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13977,
+    "docId": 52906,
+    "url": "https://lpd.court.gov.ua/legal-position/13977/document/52906",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133828756",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13978,
+    "docId": 52907,
+    "url": "https://lpd.court.gov.ua/legal-position/13978/document/52907",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133909911",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13980,
+    "docId": 52909,
+    "url": "https://lpd.court.gov.ua/legal-position/13980/document/52909",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133947322",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13981,
+    "docId": 52910,
+    "url": "https://lpd.court.gov.ua/legal-position/13981/document/52910",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133828751",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13983,
+    "docId": 52922,
+    "url": "https://lpd.court.gov.ua/legal-position/13983/document/52922",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130138446",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13984,
+    "docId": 52923,
+    "url": "https://lpd.court.gov.ua/legal-position/13984/document/52923",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/123567740",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13984,
+    "docId": 52925,
+    "url": "https://lpd.court.gov.ua/legal-position/13984/document/52925",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/131130585",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13985,
+    "docId": 52924,
+    "url": "https://lpd.court.gov.ua/legal-position/13985/document/52924",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/133578736",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13987,
+    "docId": 52927,
+    "url": "https://lpd.court.gov.ua/legal-position/13987/document/52927",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/119653141",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13988,
+    "docId": 52928,
+    "url": "https://lpd.court.gov.ua/legal-position/13988/document/52928",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/132828509",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13989,
+    "docId": 52942,
+    "url": "https://lpd.court.gov.ua/legal-position/13989/document/52942",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/135864652",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13990,
+    "docId": 50688,
+    "url": "https://lpd.court.gov.ua/legal-position/13990/document/50688",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130025806",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13991,
+    "docId": 50689,
+    "url": "https://lpd.court.gov.ua/legal-position/13991/document/50689",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130456907",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13992,
+    "docId": 50690,
+    "url": "https://lpd.court.gov.ua/legal-position/13992/document/50690",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130138603",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13994,
+    "docId": 50692,
+    "url": "https://lpd.court.gov.ua/legal-position/13994/document/50692",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130644070",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13995,
+    "docId": 50693,
+    "url": "https://lpd.court.gov.ua/legal-position/13995/document/50693",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130231743",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13996,
+    "docId": 50694,
+    "url": "https://lpd.court.gov.ua/legal-position/13996/document/50694",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130271025",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13997,
+    "docId": 50695,
+    "url": "https://lpd.court.gov.ua/legal-position/13997/document/50695",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130494824",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13998,
+    "docId": 50696,
+    "url": "https://lpd.court.gov.ua/legal-position/13998/document/50696",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130063213",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 13999,
+    "docId": 50697,
+    "url": "https://lpd.court.gov.ua/legal-position/13999/document/50697",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/129961907",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "posId": 14000,
+    "docId": 50698,
+    "url": "https://lpd.court.gov.ua/legal-position/14000/document/50698",
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://reyestr.court.gov.ua/Review/130456843",
         "text": ""
       }
     ]
